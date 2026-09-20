@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:2563eb,100:8b5cf6&height=180&section=header&text=MATT%20MACOSKO&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/coop.gif" width="760" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
 
-**Nice Dreamz LLC · Humboldt County, CA**
+# Matt Macosko
 
-A three-node ambient-computing mesh, built on Apple Silicon. Code, curiosity, and the right tools.
+### Something was eating my chickens. That is the whole origin story.
+
+Protecting them needed a camera that could see at night. That needed a vision model small enough to live on a robot. That needed AI running on my own hardware instead of somebody else's cloud. Fifty-three repos later I am somehow doing neuroscience, and every one of them still traces back to the coop.
+
+**Local AI on Apple Silicon · Humboldt County, CA · open to work**
 
 [![GitHub followers](https://img.shields.io/github/followers/nicedreamzapp?style=for-the-badge&color=236ad3&labelColor=1155ba)](https://github.com/nicedreamzapp)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnicedreamzapp&query=%24.public_repos&label=Public%20Repos&color=58a6ff&labelColor=388bfd&style=for-the-badge)](https://github.com/nicedreamzapp?tab=repositories)
-[![App Store downloads](https://img.shields.io/badge/App%20Store%20downloads-1%2C386-0D96F6?style=for-the-badge&labelColor=0a6fbd)](#-app-stats)
 [![Stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=for-the-badge&label=claude-code-local&color=f5c542&labelColor=b8860b)](https://github.com/nicedreamzapp/claude-code-local)
-
-### *"If it takes more than 10 minutes, I automate it. If it needs AI, I build it from scratch."*
 
 </div>
 
@@ -46,7 +46,10 @@ Android source ships in each repo's `android/` folder.
 
 ---
 
-## 📊 APP STATS
+<details>
+<summary><h2>📊 APP STATS <i>(click for the real download numbers)</i></h2></summary>
+
+<br>
 
 > _Refreshed **Sep 19, 2026**. App Store numbers are lifetime first-time downloads from Apple's sales reports (through Sep 17), no re-downloads or updates counted. Google Play numbers are the current installed audience from Play Console._
 
@@ -60,6 +63,8 @@ Android source ships in each repo's `android/` folder.
 | **Total** | | **1,386** | **133** |
 
 **Review record: every app approved on both stores.** Four of four on the App Store and five of five on Google Play; Hive Strike 1.4.1 is waiting on Apple's review. Song Forge and RealTime Space have each gone from about a dozen App Store downloads to 125+ since August.
+
+</details>
 
 ---
 
@@ -81,6 +86,9 @@ Most of these repos look standalone. They're not. They're one system spread acro
 
 The idea: Apple Silicon is fast enough now that the everyday AI I want doesn't need a cloud subscription. Build local-first, stay useful when the internet goes down. The same stack is airgap-ready, which matters to the law / medical / compliance-sensitive firms I work with through Nice Dreamz LLC.
 
+<details>
+<summary><i>the wiring diagram, if you like that sort of thing</i></summary>
+
 ```
                           ┌─────────────────────────────┐
                           │   iPhone (iMessage bridge)  │
@@ -94,6 +102,8 @@ The idea: Apple Silicon is fast enough now that the everyday AI I want doesn't n
 │  workstation    │◀──SSH──▶│   the workhorse         │◀───▶│   gateway         │
 └─────────────────┘         └─────────────────────────┘     └───────────────────┘
 ```
+
+</details>
 
 Thirteen always-on agents run across those nodes: a GitHub watcher that drafts issue replies with local AI and texts me the draft, a 9am iMessage business briefing, email triage, a Reddit brand watcher, and the trick that powers it all — `mini_claude`, which lets every agent use my Claude Max plan for $0 per call.
 
@@ -223,9 +233,12 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 
 ---
 
-<div align="center">
+<details>
+<summary><b>🧰 TECH STACK</b> <i>(click: the usual badge wall)</i></summary>
 
-## 🧰 TECH STACK
+<br>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
@@ -241,6 +254,8 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 `Gemma` `Llama` `Qwen` `YOLOv8` `SAM 2.1` `Whisper` `Piper TTS` `WooCommerce` `EasyPost` `Cloudflare Tunnel` `Teensy` `ESP32` `RPLidar`
 
 </div>
+
+</details>
 
 ---
 
@@ -260,8 +275,6 @@ Still figuring it out. No investors. No team. One MacBook, one Mac mini, one VPS
 
 [ineedhemp.com](https://ineedhemp.com) · [GitHub](https://github.com/nicedreamzapp) · [LinkedIn](https://www.linkedin.com/in/matt-macosko-34708235/)
 
-<sub>Built with code, caffeine, and Claude · Humboldt County, CA</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:2563eb,100:3fb950&height=100&section=footer" width="100%">
+<sub>Built with code, caffeine, and Claude · Humboldt County, CA · the chickens are fine</sub>
 
 </div>
