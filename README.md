@@ -127,7 +127,7 @@ Local MLX models driving Chrome via DevTools Protocol. Handles what other agents
 `MLX` `Chrome DevTools Protocol` `Local AI`
 
 ### [Browser Broker](https://github.com/nicedreamzapp/browser-broker) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/browser-broker?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/browser-broker/stargazers)
-One logged-in browser, many agents, nobody fights. Leases tabs to agents in an off-screen window that still renders — hidden, not headless, with your real logins. ~300 lines, one dependency.
+One logged-in browser, many agents, nobody fights. Leases each agent an ordinary background tab in your real browser, with your real logins, and every agent sees only its own. ~300 lines, one dependency. Verified on Linux by a stranger who then found a bug in my own docs.
 
 `Chrome DevTools Protocol` `Multi-agent` `Local AI`
 
