@@ -216,7 +216,6 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 | [Family Planner](https://github.com/nicedreamzapp/Family-Planner) | Skylight-style family dashboard on old tablets: voice, OCR, AI assistant |
 | [SpeakAnywhere](https://github.com/nicedreamzapp/SpeakAnywhere) | Whisper-powered voice control for the desktop |
 | [RealTime Space](https://github.com/nicedreamzapp/RealTime-Space) | The photoreal solar system engine behind the RealTime Space app, iOS and Android in one repo |
-| [CogVideoX-Mac-Setup](https://github.com/nicedreamzapp/CogVideoX-Mac-Setup) | AI video generation on Apple Silicon |
 | [The Farmstand 3D](https://github.com/nicedreamzapp/the-farmstand-3d) | WebXR marketplace, [live](https://marijuanaunion.com/marketplace) |
 | [MattPaint](https://github.com/nicedreamzapp/MattPaint) | Pixel-perfect MS Paint clone, zero dependencies |
 | [Heat-N-Clean Glass Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven) | Custom temperature-controlled cleaning kiln, CAD included |
