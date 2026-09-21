@@ -225,7 +225,6 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 | [dan-aquatic-ecology](https://github.com/nicedreamzapp/dan-aquatic-ecology) | A friend's HSU thesis site, built end-to-end in one sitting |
 | [DisclosureDay](https://github.com/nicedreamzapp/DisclosureDay) | SEO + chatbot site for the UFO film |
 | [BitcoinPredictor](https://github.com/nicedreamzapp/BitcoinPredictor) | Real-time BTC dashboard with ML signals (trading systems retired 2026) |
-| [JaneOS](https://github.com/nicedreamzapp/JaneOS) | The free web tutor that grew into Brainforest |
 
 **Internal builds (no public repo):** HQ Dashboard (central command: orders, email, shipping, agents), Ohm (the LLM chat agent that bridges the mesh), and an AI customer chatbot trained on the full Divine Tribe lineup.
 
