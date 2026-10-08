@@ -70,6 +70,8 @@ Android source ships in each repo's `android/` folder.
 
 ## 🆕 JUST SHIPPED
 
+**[Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)** — my own terminal, built from scratch for Windows and Mac. Glass windows with a neon glow, a different color for every open window, and your own questions easy to spot when you scroll back through an AI chat. [Project page →](https://nicedreamzwholesale.com/software/trinidad-head/)
+
 **[nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx)** — NVIDIA's [Nemotron Omni](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16) sees, hears, and reasons, but its vision and audio towers had no open runtime for Apple Silicon. So I wrote one. Pure MLX, MIT, **23/23 parity tests** against NVIDIA's PyTorch reference. 67.7 tok/s with an image, 147 tok/s with audio, wifi off. Credit to NVIDIA for the open weights and [yayr](https://huggingface.co/mlx-community/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-4bit) for the 4-bit conversion.
 
 ---
