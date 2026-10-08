@@ -70,8 +70,6 @@ Android source ships in each repo's `android/` folder.
 
 ## 🆕 JUST SHIPPED
 
-**[Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)** — my own terminal, built from scratch for Windows and Mac. Glass windows with a neon glow, a different color for every open window, and your own questions easy to spot when you scroll back through an AI chat. [Project page →](https://nicedreamzwholesale.com/software/trinidad-head/)
-
 **[nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx)** — NVIDIA's [Nemotron Omni](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16) sees, hears, and reasons, but its vision and audio towers had no open runtime for Apple Silicon. So I wrote one. Pure MLX, MIT, **23/23 parity tests** against NVIDIA's PyTorch reference. 67.7 tok/s with an image, 147 tok/s with audio, wifi off. Credit to NVIDIA for the open weights and [yayr](https://huggingface.co/mlx-community/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-4bit) for the 4-bit conversion.
 
 ---
@@ -157,7 +155,6 @@ Control Claude Code from your iPhone via iMessage. Commands by text; screenshots
 
 | | Repo | One line |
 |---|---|---|
-| 📦 | **[Cinch](https://github.com/nicedreamzapp/cinch)** | One-page WooCommerce shipping dashboard. Four seconds per order, down from ninety. The tool that pays for everything else. |
 | 🌐 | **[FiaOS](https://github.com/nicedreamzapp/FiaOS)** | The Mac mini in a browser tab: live desktop, real PTY shell, voice. The bridge that gives the whole mesh free Claude. |
 | 🎥 | **[studio-record](https://github.com/nicedreamzapp/studio-record)** | Screen + facecam recorder with a local HTTP API, so Claude can record itself working. |
 | 🛟 | **[claude-failover](https://github.com/nicedreamzapp/claude-failover)** | One command and your `claude -p` agents keep running on a local MLX model when the cloud is down. |
@@ -219,7 +216,6 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 | [The Farmstand 3D](https://github.com/nicedreamzapp/the-farmstand-3d) | WebXR marketplace, [live](https://marijuanaunion.com/marketplace) |
 | [MattPaint](https://github.com/nicedreamzapp/MattPaint) | Pixel-perfect MS Paint clone, zero dependencies |
 | [Heat-N-Clean Glass Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven) | Custom temperature-controlled cleaning kiln, CAD included |
-| [x-cleanup-agent](https://github.com/nicedreamzapp/x-cleanup-agent) | 395 dormant unfollows in 40 minutes through your own logged-in browser |
 | [job-search-agent](https://github.com/nicedreamzapp/job-search-agent) | Daily AI job scoring against your own background, straight from public Ashby, Greenhouse and Lever boards |
 | [dan-aquatic-ecology](https://github.com/nicedreamzapp/dan-aquatic-ecology) | A friend's HSU thesis site, built end-to-end in one sitting |
 | [DisclosureDay](https://github.com/nicedreamzapp/DisclosureDay) | SEO + chatbot site for the UFO film |
