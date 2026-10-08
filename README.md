@@ -6,7 +6,7 @@
 
 ### Something was eating my chickens. That is the whole origin story.
 
-Protecting them needed a camera that could see at night. That needed a vision model small enough to live on a robot. That needed AI running on my own hardware instead of somebody else's cloud. Fifty-three repos later I am somehow doing neuroscience, and every one of them still traces back to the coop.
+Protecting them needed a camera that could see at night. That needed a vision model small enough to live on a robot. That needed AI running on my own hardware instead of somebody else's cloud. Dozens of repos later I am somehow doing neuroscience, and every one of them still traces back to the coop.
 
 **Local AI on Apple Silicon · Humboldt County, CA · open to work**
 
