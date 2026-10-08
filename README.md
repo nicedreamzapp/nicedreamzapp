@@ -27,6 +27,7 @@ Protecting them needed a camera that could see at night. That needed a vision mo
 - **Upstream in Apple's MLX**: [Muse Glimmer (Meta) text model support](https://github.com/ml-explore/mlx-lm/pull/1710) merged into `ml-explore/mlx-lm` (+302 lines). Thanks to [@zcbenz](https://github.com/zcbenz) for the review and merge.
 - **[nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx)**: first open Apple Silicon runtime for NVIDIA Nemotron Omni's vision and audio towers, **23/23 parity tests** against NVIDIA's PyTorch reference.
 - **[Agent-12](https://github.com/nicedreamzapp/agent12)**: a filesystem-judged local agent leaderboard, independently reproduced by [@galashko](https://github.com/galashko).
+- **[HQ: the AI system that runs my shop](https://github.com/nicedreamzapp/how-my-shop-runs)**: orders from checkout to the door, four-second shipping labels, support drafts I approve, and agents on four machines sharing one memory.
 - <!--APPS-LINE:START-->**Shipped apps**: 5 apps on the App Store and Google Play, **1,894 downloads** so far (1,374 App Store, 520 Google Play), 148 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 ---
