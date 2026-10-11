@@ -2,6 +2,7 @@ name: app stats
 on:
   schedule:
     - cron: "30 16 * * *"   # 9:30am Pacific, after the Mac mini's morning refresh
+    - cron: "10 */4 * * *"  # badge copies (stars, forks, followers) every 4 hours
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,9 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 .github/scripts/app_stats.py
+      - run: python3 .github/scripts/badges.py
       - run: |
-          if git diff --quiet README.md; then echo "no change"; exit 0; fi
+          git add README.md assets/badges
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
           git config user.name "app-stats bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "App stats: $(date -u +%Y-%m-%d)"
+          git commit -m "App stats: $(date -u +%Y-%m-%d)"
           git push

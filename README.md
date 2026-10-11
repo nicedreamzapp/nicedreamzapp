@@ -10,11 +10,11 @@ Protecting them needed a camera that could see at night. That needed a vision mo
 
 **Local AI on Apple Silicon · Humboldt County, CA · open to work**
 
-[![GitHub followers](https://img.shields.io/github/followers/nicedreamzapp?style=for-the-badge&color=236ad3&labelColor=1155ba)](https://github.com/nicedreamzapp)
-[![Mentioned in Awesome Claude Code](https://img.shields.io/badge/Mentioned_in-Awesome_Claude_Code-fc60a8?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=1f2328)](https://github.com/hesreallyhim/awesome-claude-code)
-[![Stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=for-the-badge&label=claude-code-local&color=f5c542&labelColor=b8860b)](https://github.com/nicedreamzapp/claude-code-local)
-[![App downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-downloads.json&style=for-the-badge&logo=appstore&logoColor=white&labelColor=1a7f37)](#-app-stats)
-[![New this week](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-week.json&style=for-the-badge&logo=apple&logoColor=white&labelColor=0b6bcb)](#-app-stats)
+[![GitHub followers](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-followers-nicedreamzapp-c923c7.svg)](https://github.com/nicedreamzapp)
+[![Mentioned in Awesome Claude Code](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-mentioned-in-awesome-claude-code-fc60a8-500728.svg)](https://github.com/hesreallyhim/awesome-claude-code)
+[![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-claude-code-local-af34a8.svg)](https://github.com/nicedreamzapp/claude-code-local)
+[![App downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-downloads-2c2e02.svg)](#-app-stats)
+[![New this week](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-week-20cec2.svg)](#-app-stats)
 
 </div>
 
@@ -39,11 +39,11 @@ Every app, one row, both stores. Private by default, pay once (or nothing), no s
 
 | App | What it is | Downloads | iPhone | Android |
 |---|---|---|---|---|
-| **Song Forge** | Describe a song, get a finished original. Any genre, 19 languages, rendered on my Macs at home, never stored. 10 free songs, no account, no email. | [![downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-song-forge.json&style=flat-square)](#-app-stats) | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6788616929) | [![Google Play](https://img.shields.io/badge/Google_Play-01875f?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.nicedreamz.ownatune) |
-| **RealTime AI Cam** | Point your camera, it names 601 objects. Fully offline. | [![downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-realtime-ai-cam.json&style=flat-square)](#-app-stats) | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6751230739) | [![Google Play](https://img.shields.io/badge/Google_Play-01875f?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mattmacosko.realtimeaicam) |
-| **RealTime Space** | Fly a real-physics starship through the solar system and 8,920 real stars. | [![downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-realtime-space.json&style=flat-square)](#-app-stats) | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6788646103) | [![Google Play](https://img.shields.io/badge/Google_Play-01875f?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.nicedreamz.realtimespace) |
-| **Brainforest** | 2,000+ K-4 lessons, reads everything aloud, fully offline, one-time $1.99. No ads, no tracking. Built for my daughter. | [![downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-brainforest.json&style=flat-square)](#-app-stats) | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6788301765) | [![Google Play](https://img.shields.io/badge/Google_Play-01875f?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.brainforest.app) |
-| **Hive Strike** | One bee against sixteen worlds, sixteen bosses and forty-eight kinds of insect. Every sprite, background, animated scene and music bed generated locally on one Mac, no cloud, no stock art. | [![downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-hive-strike.json&style=flat-square)](#-app-stats) | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6808332314) | [![Google Play](https://img.shields.io/badge/Google_Play-01875f?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.nicedreamz.hivestrike) |
+| **Song Forge** | Describe a song, get a finished original. Any genre, 19 languages, rendered on my Macs at home, never stored. 10 free songs, no account, no email. | [![downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-song-forge-1c07bd.svg)](#-app-stats) | [![App Store](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-app-store-0d96f6-2bf332.svg)](https://apps.apple.com/us/app/id6788616929) | [![Google Play](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-google-play-01875f-9cd304.svg)](https://play.google.com/store/apps/details?id=com.nicedreamz.ownatune) |
+| **RealTime AI Cam** | Point your camera, it names 601 objects. Fully offline. | [![downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-realtime-ai-cam-329e88.svg)](#-app-stats) | [![App Store](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-app-store-0d96f6-2bf332.svg)](https://apps.apple.com/us/app/id6751230739) | [![Google Play](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-google-play-01875f-9cd304.svg)](https://play.google.com/store/apps/details?id=com.mattmacosko.realtimeaicam) |
+| **RealTime Space** | Fly a real-physics starship through the solar system and 8,920 real stars. | [![downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-realtime-space-d1c822.svg)](#-app-stats) | [![App Store](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-app-store-0d96f6-2bf332.svg)](https://apps.apple.com/us/app/id6788646103) | [![Google Play](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-google-play-01875f-9cd304.svg)](https://play.google.com/store/apps/details?id=com.nicedreamz.realtimespace) |
+| **Brainforest** | 2,000+ K-4 lessons, reads everything aloud, fully offline, one-time $1.99. No ads, no tracking. Built for my daughter. | [![downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-brainforest-dc7d28.svg)](#-app-stats) | [![App Store](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-app-store-0d96f6-2bf332.svg)](https://apps.apple.com/us/app/id6788301765) | [![Google Play](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-google-play-01875f-9cd304.svg)](https://play.google.com/store/apps/details?id=com.brainforest.app) |
+| **Hive Strike** | One bee against sixteen worlds, sixteen bosses and forty-eight kinds of insect. Every sprite, background, animated scene and music bed generated locally on one Mac, no cloud, no stock art. | [![downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-hive-strike-6b634f.svg)](#-app-stats) | [![App Store](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-app-store-0d96f6-2bf332.svg)](https://apps.apple.com/us/app/id6808332314) | [![Google Play](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-google-play-01875f-9cd304.svg)](https://play.google.com/store/apps/details?id=com.nicedreamz.hivestrike) |
 
 Android source ships in each repo's `android/` folder.
 
@@ -123,32 +123,32 @@ If your firm handles data that can't touch the cloud and you want one built and 
 
 > _Sorted by GitHub stars._
 
-### [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/claude-code-local/stargazers) [![Forks](https://img.shields.io/github/forks/nicedreamzapp/claude-code-local?style=flat-square&color=58a6ff)](https://github.com/nicedreamzapp/claude-code-local/network/members)
+### [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-claude-code-local-357b31.svg)](https://github.com/nicedreamzapp/claude-code-local/stargazers) [![Forks](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-forks-claude-code-local-5184c0.svg)](https://github.com/nicedreamzapp/claude-code-local/network/members)
 Run Claude Code 100% on-device on Apple Silicon. Current lineup led by Qwen 3.8 27B and Gemma 4 31B, four modes (code, browser, voice, phone), Anthropic-compatible MLX server, `setup.sh` picks the right model for your RAM. Your code never leaves your Mac. Featured in [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code).
 
 `MLX` `Apple Silicon` `Claude Code` `Python`
 
-### [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/NarrateClaude?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/NarrateClaude/stargazers)
+### [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-narrateclaude-7426bb.svg)](https://github.com/nicedreamzapp/NarrateClaude/stargazers)
 Talk to your Mac, hear it reply in your own cloned voice. 100% private, works on a plane, and the Ohm web chat brings the same loop to any browser at zero API cost.
 
 `Pocket TTS` `Apple Silicon` `Flask`
 
-### [Browser Agent](https://github.com/nicedreamzapp/browser-agent) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/browser-agent?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/browser-agent/stargazers)
+### [Browser Agent](https://github.com/nicedreamzapp/browser-agent) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-browser-agent-f805b6.svg)](https://github.com/nicedreamzapp/browser-agent/stargazers)
 Local MLX models driving Chrome via DevTools Protocol. Handles what other agents can't: cross-origin iframes, Shadow DOM, ProseMirror. [56-second demo →](https://youtu.be/SIuMNa2k6Wc)
 
 `MLX` `Chrome DevTools Protocol` `Local AI`
 
-### [Browser Broker](https://github.com/nicedreamzapp/browser-broker) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/browser-broker?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/browser-broker/stargazers)
+### [Browser Broker](https://github.com/nicedreamzapp/browser-broker) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-browser-broker-b96186.svg)](https://github.com/nicedreamzapp/browser-broker/stargazers)
 One logged-in browser, many agents, nobody fights. Leases each agent an ordinary background tab in your real browser, with your real logins, and every agent sees only its own. ~300 lines, one dependency. Verified on Linux by a stranger who then found a bug in my own docs.
 
 `Chrome DevTools Protocol` `Multi-agent` `Local AI`
 
-### [RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/RealTimeAICam?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/RealTimeAICam/stargazers)
+### [RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-realtimeaicam-b2f1d2.svg)](https://github.com/nicedreamzapp/RealTimeAICam/stargazers)
 The biggest free open-vocabulary detector that fits on an iPhone: 601 classes, OCR, LiDAR depth, all on-device. The seed of the robot's vision stack.
 
 `YOLOv8` `CoreML` `Swift` `LiDAR`
 
-### [Claude → Phone](https://github.com/nicedreamzapp/claude-screen-to-phone) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/claude-screen-to-phone?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/claude-screen-to-phone/stargazers)
+### [Claude → Phone](https://github.com/nicedreamzapp/claude-screen-to-phone) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-claude-screen-to-phone-2c6c89.svg)](https://github.com/nicedreamzapp/claude-screen-to-phone/stargazers)
 Control Claude Code from your iPhone via iMessage. Commands by text; screenshots, recordings, and YES / NO / YES_TO_ALL approval buttons come back.
 
 `iMessage` `AppleScript` `macOS Automation`
@@ -168,7 +168,7 @@ Control Claude Code from your iPhone via iMessage. Commands by text; screenshots
 
 ## 🤖 THE LONG-ARC BET
 
-### [Cemani Homestead Robot](https://github.com/nicedreamzapp/CemaniHomesteadRobot) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/CemaniHomesteadRobot?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/CemaniHomesteadRobot/stargazers)
+### [Cemani Homestead Robot](https://github.com/nicedreamzapp/CemaniHomesteadRobot) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-cemanihomesteadrobot-d8038a.svg)](https://github.com/nicedreamzapp/CemaniHomesteadRobot/stargazers)
 Started with protecting my chickens from predators. Now a 1 kW autonomous tank robot you text from your phone: 601-class vision on a Jetson, dual PTZ cameras, 3D LIDAR, and it pulls a cart of firewood. Actually. The honest goal: a Lego-clip-in modular robotics kit running the same local-AI brain as the desk. [VisionBuilder](https://github.com/nicedreamzapp/VisionBuilder) trains its eyes from photos on my phone.
 
 <a href="https://youtu.be/NWnGvvdvRik"><img src="https://img.youtube.com/vi/NWnGvvdvRik/maxresdefault.jpg" width="480" alt="▶ Watch the 53-second demo"></a>
@@ -238,16 +238,16 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MLX](https://img.shields.io/badge/MLX-8b5cf6?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![CoreML](https://img.shields.io/badge/CoreML-2563eb?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Jetson](https://img.shields.io/badge/Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Python](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-python-3776ab-46035b.svg)
+![Swift](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-swift-f05138-ae2b39.svg)
+![JavaScript](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-javascript-f7df1e-088fee.svg)
+![Apple Silicon](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-apple-silicon-000000-d5b7f3.svg)
+![MLX](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-mlx-8b5cf6-c88f0d.svg)
+![Claude](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-claude-d97757-7966d2.svg)
+![CoreML](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-coreml-2563eb-522705.svg)
+![Flask](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-flask-000000-cac63f.svg)
+![nginx](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-nginx-009639-21c450.svg)
+![Jetson](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-jetson-orin-76b900-928933.svg)
 
 `Gemma` `Llama` `Qwen` `YOLOv8` `SAM 2.1` `Whisper` `Piper TTS` `WooCommerce` `EasyPost` `Cloudflare Tunnel` `Teensy` `ESP32` `RPLidar`
 
