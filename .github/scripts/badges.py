@@ -9,6 +9,7 @@ download keeps yesterday's copy. Any new shields.io URL typed into the README is
 swapped on the next run.
 """
 import hashlib, json, os, re, time, urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
 DIR = "assets/badges"
 MANIFEST = os.path.join(DIR, "badges.json")
@@ -29,15 +30,16 @@ def name_for(url):
 
 
 def fetch(url):
-    for wait in (0, 3, 10):
+    for wait in (0, 4):
         time.sleep(wait)
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "nicedreamzapp-profile-badges"})
-            body = urllib.request.urlopen(req, timeout=30).read()
+            body = urllib.request.urlopen(req, timeout=12).read()
             if body.lstrip().startswith(b"<svg") and b"</svg>" in body:
                 return body
+            print("not a badge:", url[:90], body[:60], flush=True)
         except Exception as e:
-            print("retry", url[:80], e)
+            print("retry", url[:90], e, flush=True)
     return None
 
 
@@ -48,14 +50,16 @@ for url in sorted(set(re.findall(r"https://img\.shields\.io/[^\s)\"']+", md))):
         by_url[url] = name_for(url)
 
 failed = 0
-for url, fname in sorted(by_url.items(), key=lambda kv: kv[1]):
-    body = fetch(url)
+items = sorted(by_url.items(), key=lambda kv: kv[1])
+with ThreadPoolExecutor(6) as pool:
+    bodies = list(pool.map(fetch, [u for u, _ in items]))
+for (url, fname), body in zip(items, bodies):
     path = os.path.join(DIR, fname)
     if body:
         open(path, "wb").write(body)
     else:
         failed += 1
-        print("FAILED, keeping old copy:", url)
+        print("FAILED, keeping old copy:", url, flush=True)
     # only point the README at a copy that exists
     if os.path.exists(path):
         md = md.replace(url, RAW + fname)
