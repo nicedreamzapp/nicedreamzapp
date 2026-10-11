@@ -11,6 +11,7 @@ Protecting them needed a camera that could see at night. That needed a vision mo
 **Local AI on Apple Silicon · Humboldt County, CA · open to work**
 
 [![GitHub followers](https://img.shields.io/github/followers/nicedreamzapp?style=for-the-badge&color=236ad3&labelColor=1155ba)](https://github.com/nicedreamzapp)
+[![Mentioned in Awesome Claude Code](https://img.shields.io/badge/Mentioned_in-Awesome_Claude_Code-fc60a8?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=1f2328)](https://github.com/hesreallyhim/awesome-claude-code)
 [![Stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=for-the-badge&label=claude-code-local&color=f5c542&labelColor=b8860b)](https://github.com/nicedreamzapp/claude-code-local)
 [![App downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-downloads.json&style=for-the-badge&logo=appstore&logoColor=white&labelColor=1a7f37)](#-app-stats)
 [![New this week](https://img.shields.io/endpoint?url=https%3A%2F%2Fnicedreamzwholesale.com%2Fsoftware%2Fbadge-week.json&style=for-the-badge&logo=apple&logoColor=white&labelColor=0b6bcb)](#-app-stats)
@@ -23,7 +24,7 @@ Protecting them needed a camera that could see at night. That needed a vision mo
 
 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · looking for a role building on-device / local AI.
 
-- **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)**: Claude Code running 100% on-device on Apple Silicon, with its own MLX server and tool-call parser. **3,300+ stars, 625 forks**, and fixes merged from contributors on hardware I don't own.
+- **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)**: Claude Code running 100% on-device on Apple Silicon, with its own MLX server and tool-call parser. **3,300+ stars, 625 forks**, featured in [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code), and fixes merged from contributors on hardware I don't own.
 - **Upstream in Apple's MLX**: [Muse Glimmer (Meta) text model support](https://github.com/ml-explore/mlx-lm/pull/1710) merged into `ml-explore/mlx-lm` (+302 lines). Thanks to [@zcbenz](https://github.com/zcbenz) for the review and merge.
 - **[nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx)**: first open Apple Silicon runtime for NVIDIA Nemotron Omni's vision and audio towers, **23/23 parity tests** against NVIDIA's PyTorch reference.
 - **[Agent-12](https://github.com/nicedreamzapp/agent12)**: a filesystem-judged local agent leaderboard, independently reproduced by [@galashko](https://github.com/galashko).
@@ -123,7 +124,7 @@ If your firm handles data that can't touch the cloud and you want one built and 
 > _Sorted by GitHub stars._
 
 ### [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) &nbsp; [![Stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=flat-square&color=f5c542)](https://github.com/nicedreamzapp/claude-code-local/stargazers) [![Forks](https://img.shields.io/github/forks/nicedreamzapp/claude-code-local?style=flat-square&color=58a6ff)](https://github.com/nicedreamzapp/claude-code-local/network/members)
-Run Claude Code 100% on-device on Apple Silicon. Current lineup led by Qwen 3.8 27B and Gemma 4 31B, four modes (code, browser, voice, phone), Anthropic-compatible MLX server, `setup.sh` picks the right model for your RAM. Your code never leaves your Mac.
+Run Claude Code 100% on-device on Apple Silicon. Current lineup led by Qwen 3.8 27B and Gemma 4 31B, four modes (code, browser, voice, phone), Anthropic-compatible MLX server, `setup.sh` picks the right model for your RAM. Your code never leaves your Mac. Featured in [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code).
 
 `MLX` `Apple Silicon` `Claude Code` `Python`
 
