@@ -24,12 +24,12 @@ Protecting them needed a camera that could see at night. That needed a vision mo
 
 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · looking for a role building on-device / local AI.
 
-- **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)**: Claude Code running 100% on-device on Apple Silicon, with its own MLX server and tool-call parser. **3,300+ stars, 625 forks**, featured in [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code), and fixes merged from contributors on hardware I don't own.
+- **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)**: Claude Code running 100% on-device on Apple Silicon, with its own MLX server and tool-call parser. **<!--CCL:START-->3,300+ stars, 634 forks<!--CCL:END-->**, featured in [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code), and fixes merged from contributors on hardware I don't own.
 - **Upstream in Apple's MLX**: [Muse Glimmer (Meta) text model support](https://github.com/ml-explore/mlx-lm/pull/1710) merged into `ml-explore/mlx-lm` (+302 lines). Thanks to [@zcbenz](https://github.com/zcbenz) for the review and merge.
 - **[nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx)**: first open Apple Silicon runtime for NVIDIA Nemotron Omni's vision and audio towers, **23/23 parity tests** against NVIDIA's PyTorch reference.
 - **[Agent-12](https://github.com/nicedreamzapp/agent12)**: a filesystem-judged local agent leaderboard, independently reproduced by [@galashko](https://github.com/galashko).
 - **[HQ: the AI system that runs my shop](https://github.com/nicedreamzapp/how-my-shop-runs)**: orders from checkout to the door, four-second shipping labels, support drafts I approve, and agents on four machines sharing one memory.
-- <!--APPS-LINE:START-->**Shipped apps**: 5 apps on the App Store and Google Play, **2,084 downloads** so far (1,435 App Store, 649 Google Play), 91 new on iPhone in the last week.<!--APPS-LINE:END-->
+- **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,093 downloads** so far (1,444 App Store, 649 Google Play), 83 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 ---
 
@@ -52,18 +52,18 @@ Android source ships in each repo's `android/` folder.
 ## 📊 APP STATS
 
 <!--APP-STATS:START-->
-> _Updated automatically **Oct 11, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
+> _Updated automatically **Oct 12, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,588** | 1,141 | 447 | 43 | ★ 5.0 (2) |
-| **Song Forge** | Jul 2026 | **261** | 103 | 158 | 11 | – |
-| **RealTime Space** | Jul 2026 | **168** | 131 | 37 | 33 | – |
-| **Brainforest** | Jul 2026 | **64** | 59 | 5 | 4 | ★ 5.0 (1) |
+| **RealTime AI Cam** | Aug 2025 | **1,591** | 1,144 | 447 | 39 | ★ 5.0 (2) |
+| **Song Forge** | Jul 2026 | **263** | 105 | 158 | 11 | – |
+| **RealTime Space** | Jul 2026 | **172** | 135 | 37 | 31 | – |
+| **Brainforest** | Jul 2026 | **64** | 59 | 5 | 2 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **3** | 1 | 2 | 0 | – |
-| **Total** | | **2,084** | **1,435** | **649** | **91** | |
+| **Total** | | **2,093** | **1,444** | **649** | **83** | |
 
-**New iPhone downloads per week, last 8 weeks:** 39 → 50 → 44 → 52 → 87 → 109 → 156 → 91 (-65 vs the week before).
+**New iPhone downloads per week, last 8 weeks:** 40 → 51 → 41 → 73 → 91 → 93 → 159 → 83 (-76 vs the week before).
 <!--APP-STATS:END-->
 
 **Review record: every app approved on both stores.** Five of five on the App Store and five of five on Google Play.

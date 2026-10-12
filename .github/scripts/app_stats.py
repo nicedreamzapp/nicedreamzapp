@@ -41,13 +41,17 @@ stats = "\n".join([
     "", "\n".join(rows), "",
     "**New iPhone downloads per week, last 8 weeks:** %s (%s%d vs the week before)." % (weeks, "+" if diff >= 0 else "", diff),
 ])
-line = ("**Shipped apps**: 5 apps on the App Store and Google Play, **%s downloads** so far "
+line = ("5 apps on the App Store and Google Play, **%s downloads** so far "
         "(%s App Store, %s Google Play), %s new on iPhone in the last week." % (
             fmt(t["downloads"]), fmt(t["apple"]), fmt(t["play"]), fmt(t["last7"])))
 
+# claude-code-local's star and fork counts, straight from GitHub (typed by hand until 2026-10-12)
+repo = json.load(urllib.request.urlopen("https://api.github.com/repos/nicedreamzapp/claude-code-local", timeout=60))
+ccl = "%s+ stars, %s forks" % (fmt(repo["stargazers_count"] // 100 * 100), fmt(repo["forks_count"]))
+
 p = "README.md"
 md = open(p).read()
-for key, body in (("APP-STATS", stats), ("APPS-LINE", line)):
+for key, body in (("APP-STATS", stats), ("APPS-LINE", line), ("CCL", ccl)):
     md, n = re.subn(r"(<!--%s:START-->).*?(<!--%s:END-->)" % (key, key),
                     lambda m: m.group(1) + ("\n" if key == "APP-STATS" else "") + body + ("\n" if key == "APP-STATS" else "") + m.group(2),
                     md, flags=re.S)
