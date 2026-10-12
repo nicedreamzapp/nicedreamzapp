@@ -24,7 +24,7 @@ Protecting them needed a camera that could see at night. That needed a vision mo
 
 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · looking for a role building on-device / local AI.
 
-- **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)**: Claude Code running 100% on-device on Apple Silicon, with its own MLX server and tool-call parser. **<!--CCL:START-->3,300+ stars, 634 forks<!--CCL:END-->**, featured in [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code), and fixes merged from contributors on hardware I don't own.
+- **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)**: Claude Code running 100% on-device on Apple Silicon, with its own MLX server and tool-call parser. **<!--CCL:START-->3,300+ stars, 635 forks<!--CCL:END-->**, featured in [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code), and fixes merged from contributors on hardware I don't own.
 - **Upstream in Apple's MLX**: [Muse Glimmer (Meta) text model support](https://github.com/ml-explore/mlx-lm/pull/1710) merged into `ml-explore/mlx-lm` (+302 lines). Thanks to [@zcbenz](https://github.com/zcbenz) for the review and merge.
 - **[nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx)**: first open Apple Silicon runtime for NVIDIA Nemotron Omni's vision and audio towers, **23/23 parity tests** against NVIDIA's PyTorch reference.
 - **[Agent-12](https://github.com/nicedreamzapp/agent12)**: a filesystem-judged local agent leaderboard, independently reproduced by [@galashko](https://github.com/galashko).
