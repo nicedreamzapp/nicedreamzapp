@@ -146,6 +146,8 @@ One logged-in browser, many agents, nobody fights. Leases each agent an ordinary
 ### [RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-realtimeaicam-b2f1d2.svg)](https://github.com/nicedreamzapp/RealTimeAICam/stargazers)
 The biggest free open-vocabulary detector that fits on an iPhone: 601 classes, OCR, LiDAR depth, all on-device. The seed of the robot's vision stack.
 
+▶ **[Watch it see the world, fully offline (90 sec)](https://www.youtube.com/watch?v=2BEYv-fv-gE)**
+
 `YOLOv8` `CoreML` `Swift` `LiDAR`
 
 ### [Claude → Phone](https://github.com/nicedreamzapp/claude-screen-to-phone) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-claude-screen-to-phone-2c6c89.svg)](https://github.com/nicedreamzapp/claude-screen-to-phone/stargazers)
