@@ -267,7 +267,7 @@ I run [Divine Tribe](https://ineedhemp.com) — vaporizer hardware, since 2013. 
 
 The long arc is the robot. Same eyes, different bodies.
 
-Still figuring it out. No investors. No team. One MacBook, one Mac mini, one VPS, and a lot of late nights.
+Still figuring it out. No investors. One MacBook, one Mac mini, one VPS, and a lot of late nights.
 
 ---
 
