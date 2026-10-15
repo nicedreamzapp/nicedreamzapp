@@ -261,7 +261,7 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 
 ## 🌲 WHY THIS EXISTS
 
-I run [Divine Tribe](https://ineedhemp.com) — vaporizer hardware, since 2013. Cinch ships those orders. Everything else is downstream of paying the bills.
+I run [Divine Tribe](https://ineedhemp.com) — vaporizer hardware, since 2013. [HQ](https://github.com/nicedreamzapp/how-my-shop-runs), the AI system I built, runs the shop side. Everything else is downstream of paying the bills.
 
 **Nice Dreamz LLC** is the umbrella on top. [AirGap AI](https://nicedreamzwholesale.com/airgap) is the showcase: what a full private-AI build looks like for the kind of firm that can't put its data into a cloud chatbot. It's a capability I maintain, not a product I'm pushing. The three-node mesh is the demo: it's been my daily driver for a year and a half. I'm also building the [Cannabis Device Safety Institute](https://cdsi.click) in parallel, a standards body for cannabis-consumption hardware.
 
