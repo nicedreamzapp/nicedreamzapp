@@ -5,10 +5,25 @@ files. This keeps the profile honest without anyone remembering to update it (th
 typed by hand until 2026-09-27 and went stale within a week).
 Only text between the <!--X:START--> / <!--X:END--> markers is touched.
 """
-import json, re, urllib.request
+import json, re, time, urllib.request
 
 URL = "https://nicedreamzwholesale.com/software/stats.json"
-s = json.load(urllib.request.urlopen(URL, timeout=60))
+
+
+def fetch():
+    # The site's firewall now and then answers a runner IP with 403; a retry gets through.
+    req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0 (app-stats; +https://github.com/nicedreamzapp)"})
+    for attempt in range(4):
+        try:
+            return json.load(urllib.request.urlopen(req, timeout=60))
+        except Exception as e:
+            if attempt == 3:
+                raise
+            print(f"fetch failed ({e}), retrying")
+            time.sleep(30 * (attempt + 1))
+
+
+s = fetch()
 t = s["totals"]
 fmt = "{:,}".format
 
