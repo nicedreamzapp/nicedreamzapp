@@ -31,7 +31,7 @@ Case studies of nine of these projects, with the bugs and the measured numbers: 
 - **[nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx)**: first open Apple Silicon runtime for NVIDIA Nemotron Omni's vision and audio towers, **23/23 parity tests** against NVIDIA's PyTorch reference.
 - **[Agent-12](https://github.com/nicedreamzapp/agent12)**: a filesystem-judged local agent leaderboard, independently reproduced by [@galashko](https://github.com/galashko).
 - **[HQ: the AI system that runs my shop](https://github.com/nicedreamzapp/how-my-shop-runs)**: orders from checkout to the door, four-second shipping labels, support drafts I approve, and agents on four machines sharing one memory.
-- **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,218 downloads** so far (1,500 App Store, 718 Google Play), 49 new on iPhone in the last week.<!--APPS-LINE:END-->
+- **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,225 downloads** so far (1,500 App Store, 725 Google Play), 49 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 ---
 
@@ -58,12 +58,12 @@ Android source ships in each repo's `android/` folder.
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,663** | 1,165 | 498 | 18 | ★ 5.0 (2) |
-| **Song Forge** | Jul 2026 | **275** | 111 | 164 | 6 | – |
+| **RealTime AI Cam** | Aug 2025 | **1,668** | 1,165 | 503 | 18 | ★ 5.0 (2) |
+| **Song Forge** | Jul 2026 | **277** | 111 | 166 | 6 | – |
 | **RealTime Space** | Jul 2026 | **208** | 162 | 46 | 23 | – |
 | **Brainforest** | Jul 2026 | **67** | 60 | 7 | 1 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **5** | 2 | 3 | 1 | – |
-| **Total** | | **2,218** | **1,500** | **718** | **49** | |
+| **Total** | | **2,225** | **1,500** | **725** | **49** | |
 
 **New iPhone downloads per week, last 8 weeks:** 52 → 40 → 78 → 117 → 65 → 157 → 85 → 49 (-36 vs the week before).
 <!--APP-STATS:END-->
