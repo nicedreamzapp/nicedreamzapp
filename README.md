@@ -8,7 +8,7 @@
 [![App downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-downloads-2c2e02.svg)](#app-stats)
 [![New this week](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-week-20cec2.svg)](#app-stats)
 
-<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/coop.gif" width="760" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/coop.gif?v=2" width="760" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/stats.svg" width="100%" alt="5 of 5 apps approved on both stores. 23/23 parity tests. 601 objects named offline. 13 always-on agents across 3 machines.">
 
