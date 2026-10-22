@@ -506,17 +506,17 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 <a id="why"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s14-why.svg" width="100%" alt="14. Why this exists">
 
-- 🌲 I run [Divine Tribe](https://ineedhemp.com): vaporizer hardware, since **2013**.
-- 🏪 [HQ](https://github.com/nicedreamzapp/how-my-shop-runs), the AI system I built, runs the shop side.
-- 💵 Everything else is downstream of paying the bills.
-- 🏢 **Nice Dreamz LLC** is the umbrella on top.
-- 🔒 [AirGap AI](https://nicedreamzwholesale.com/airgap) is the showcase: what a full private-AI build looks like for the kind of firm that can't put its data into a cloud chatbot.
-- 🧰 It's a capability I maintain, not a product I'm pushing.
-- 🖧 The **three-node** mesh is the demo: it's been my daily driver for **a year and a half**.
-- 🛡️ I'm also building the [Cannabis Device Safety Institute](https://cdsi.click) in parallel, a standards body for cannabis-consumption hardware.
-- 🤖 The long arc is the robot. Same eyes, different bodies.
+| | |
+|:---:|---|
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-shop.svg" alt="The shop"> | I run [Divine Tribe](https://ineedhemp.com): $\color{#16a34a}{\textsf{\textbf{vaporizer hardware}}}$, since **2013**. [HQ](https://github.com/nicedreamzapp/how-my-shop-runs), $\color{#0284c7}{\textsf{\textbf{the AI system I built}}}$, runs the shop side. Everything else is downstream of paying the bills. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-umbrella.svg" alt="The umbrella"> | **Nice Dreamz LLC** is the umbrella on top. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-showcase.svg" alt="The showcase"> | [AirGap AI](https://nicedreamzwholesale.com/airgap) is the showcase: what a full private-AI build looks like for the kind of firm that $\color{#e11d48}{\textsf{\textbf{cannot put its data into a cloud chatbot}}}$. It's a capability I maintain, not a product I'm pushing. The **three-node** mesh is the demo: it's been $\color{#7c3aed}{\textsf{\textbf{my daily driver}}}$ for **a year and a half**. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-parallel.svg" alt="In parallel"> | I'm also building the [Cannabis Device Safety Institute](https://cdsi.click) in parallel, $\color{#d97706}{\textsf{\textbf{a standards body for cannabis-consumption hardware}}}$. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-longarc.svg" alt="The long arc"> | The long arc is the robot. $\color{#16a34a}{\textsf{\textbf{Same eyes, different bodies.}}}$ |
 
-**Still figuring it out. No investors. One MacBook, one Mac mini, one VPS, and a lot of late nights.**
+### 🌙 Still figuring it out.
+
+$\color{#7c3aed}{\textsf{\textbf{No investors.}}}$ $\color{#0284c7}{\textsf{\textbf{One MacBook, one Mac mini, one VPS,}}}$ and $\color{#d97706}{\textsf{\textbf{a lot of late nights.}}}$
 
 <br>
 
