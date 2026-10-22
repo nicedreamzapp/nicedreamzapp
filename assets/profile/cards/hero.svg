@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="288" viewBox="0 0 600 288" role="img" aria-label="Matt Macosko. Something was eating my chickens. That is the whole origin story. Local AI on Apple Silicon, Humboldt County, CA, open to work.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#151a3a"/><stop offset="1" stop-color="#2a1240"/></linearGradient>
+<linearGradient id="rb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22c55e"/><stop offset=".2" stop-color="#06b6d4"/><stop offset=".4" stop-color="#3b82f6"/><stop offset=".6" stop-color="#a855f7"/><stop offset=".8" stop-color="#ec4899"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+<radialGradient id="g1" cx=".85" cy=".2" r=".5"><stop offset="0" stop-color="#a855f7" stop-opacity=".35"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient></defs>
+<rect width="600" height="288" rx="18" fill="url(#bg)"/><rect width="600" height="288" rx="18" fill="url(#g1)"/>
+<rect x="0" y="280" width="600" height="8" fill="url(#rb)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><text x="26" y="72" font-size="52" font-weight="800" fill="#ffffff">Matt Macosko</text>
+<text x="28" y="114" font-size="25" font-weight="600" fill="#c7d2fe">Something was eating my chickens.</text>
+<text x="28" y="146" font-size="25" font-weight="600" fill="#c7d2fe">That is the whole origin story.</text>
+<rect x="28" y="168" width="299" height="40" rx="20" fill="#22c55e" fill-opacity=".2" stroke="#22c55e"/><text x="178" y="195" text-anchor="middle" font-size="20" font-weight="700" fill="#86efac">Local AI on Apple Silicon</text><rect x="28" y="218" width="262" height="40" rx="20" fill="#3b82f6" fill-opacity=".2" stroke="#3b82f6"/><text x="159" y="245" text-anchor="middle" font-size="20" font-weight="700" fill="#93c5fd">Humboldt County, CA</text><rect x="301.70000000000005" y="218" width="176" height="40" rx="20" fill="#ec4899" fill-opacity=".2" stroke="#ec4899"/><text x="390" y="245" text-anchor="middle" font-size="20" font-weight="700" fill="#f9a8d4">Open to work</text></g>
+<g transform="translate(476,26)" opacity=".9"><circle cx="50" cy="50" r="46" fill="none" stroke="#a855f7" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="50" cy="50" r="30" fill="none" stroke="#06b6d4" stroke-opacity=".6" stroke-width="2"/><circle cx="50" cy="50" r="13" fill="#22c55e" fill-opacity=".85"/>
+<circle cx="50" cy="4" r="5" fill="#ec4899"/><circle cx="80" cy="50" r="4" fill="#f59e0b"/></g></svg>
