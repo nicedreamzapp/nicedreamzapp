@@ -441,11 +441,15 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 <a id="stores"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s13-stores.svg" width="100%" alt="13. The stores">
 
-- 🛒 [Divine Tribe](https://ineedhemp.com): vaporizer hardware, American-owned since **2013**
-- 🏬 Plus [three more stores](https://marijuanaunion.com)
-- 📦 **140+** products, **5,000+** units shipped
-- ⚙️ All automated by the mesh above
-- 💵 Divine Tribe pays the bills; everything else is downstream
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/stores-tiles.svg" width="100%" alt="Divine Tribe since 2013, three more stores, 140+ products, 5,000+ units shipped">
+
+| | |
+|:---:|---|
+| 🛒 | [Divine Tribe](https://ineedhemp.com): $\color{#16a34a}{\textsf{\textbf{vaporizer hardware}}}$, American-owned since **2013** |
+| 🏬 | Plus [three more stores](https://marijuanaunion.com) |
+| 📦 | **140+** products, **5,000+** units shipped |
+| ⚙️ | $\color{#0284c7}{\textsf{\textbf{All automated by the mesh above}}}$ |
+| 💵 | Divine Tribe $\color{#d97706}{\textsf{\textbf{pays the bills}}}$; everything else is downstream |
 
 <br>
 
