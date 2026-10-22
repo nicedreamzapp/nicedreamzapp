@@ -244,15 +244,17 @@ They're $\color{#7c3aed}{\textsf{\textbf{one system}}}$ spread across **three ma
 <a id="airgap"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s07-airgap.svg" width="100%" alt="07. AirGap: a skill, not a product">
 
-🔒 **AirGap is my name for the full private-AI build.**
+### 🔒 AirGap is my name for the full private-AI build.
 
-- 🖥️ A complete AI workstation on **one** Mac
-- 📴 Wifi off, nothing leaving the building
-- 🧰 It started as a packaged offering; these days I treat it as a capability I keep sharp rather than something I sell
-- 🔓 Everything it needs is open source on this page, so any competent IT person can stand one up without me. That's the point.
-- 📬 If your firm handles data that can't touch the cloud and you want one built and your team trained on it, email [info@nicedreamzwholesale.com](mailto:info@nicedreamzwholesale.com)
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/airgap-strip.svg" width="100%" alt="A complete AI workstation on one Mac, wifi off, nothing leaving the building.">
 
-[What it looks like →](https://nicedreamzwholesale.com/airgap/) · [Why it matters now →](https://nicedreamzwholesale.com/2026/05/22/the-heppner-ruling-warner-v-gilbarco-and-what-confidential-ai-actually-has-to-mean/)
+| | |
+|:---:|---|
+| 🧰 | It started as a packaged offering; these days I treat it as $\color{#0284c7}{\textsf{\textbf{a capability I keep sharp}}}$ rather than something I sell. |
+| 🔓 | Everything it needs is $\color{#16a34a}{\textsf{\textbf{open source on this page}}}$, so any competent IT person can stand one up without me. That's the point. |
+| 📬 | If your firm handles data that $\color{#e11d48}{\textsf{\textbf{cannot touch the cloud}}}$ and you want one built and your team trained on it, email [info@nicedreamzwholesale.com](mailto:info@nicedreamzwholesale.com). |
+
+👉 [What it looks like →](https://nicedreamzwholesale.com/airgap/) · [Why it matters now →](https://nicedreamzwholesale.com/2026/05/22/the-heppner-ruling-warner-v-gilbarco-and-what-confidential-ai-actually-has-to-mean/)
 
 <br>
 
