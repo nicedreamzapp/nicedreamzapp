@@ -346,65 +346,28 @@ Control Claude Code from your iPhone via iMessage. Commands by text; screenshots
 <a id="long-arc"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s10-long-arc.svg" width="100%" alt="10. The long-arc bet: a robot that grows food">
 
-### 🌱 Here's where all of this is headed.
+<div align="center">
 
-You hand a robot $\color{#16a34a}{\textsf{\textbf{a bag of seeds}}}$, show it $\color{#0284c7}{\textsf{\textbf{where the hose is}}}$, and a few months later there are $\color{#d97706}{\textsf{\textbf{vegetables on the table}}}$.
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-headed.svg" width="294" alt="Here&#x27;s where all of this is headed. You hand a robot a bag of seeds, show it where the hose is, and a few months later there are vegetables on the table.">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-does.svg" width="294" alt="What it does It plants, waters, weeds, harvests, carries the food in, and someday maybe cooks it too.">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-sun.svg" width="294" alt="No grid, no cloud It charges from the sun and its whole brain lives inside it, so it keeps working where there&#x27;s no internet at all.">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-village.svg" width="294" alt="Now picture a village Now picture dropping two of them in a village where people are hungry and there&#x27;s no signal for a hundred miles. They dig the well, plant the rows, and bring in the harvest.">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-scifi.svg" width="294" alt="That&#x27;s the science fiction story I&#x27;m building toward, and I think we&#x27;re closer to it than most people realize.">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-pieces.svg" width="294" alt="Every repo on this page is a piece of it. Right now I&#x27;m scraping the edges, but every piece works with the wifi off, and that&#x27;s on purpose.">
+<a href="https://github.com/nicedreamzapp/RealTimeAICam"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-eyes.svg" width="294" alt="👁 EYES RealTime AI Cam is the eyes A vision model that runs fully offline on a phone, and along the way it turned out to help blind people see."></a>
+<a href="https://github.com/nicedreamzapp/claude-code-local"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-brain.svg" width="294" alt="🧠 BRAIN Claude Code Local is the brain The brain without a cloud."></a>
+<a href="https://github.com/nicedreamzapp/CemaniHomesteadRobot"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-body.svg" width="294" alt="🤖 BODY The Cemani robot is the first body Started with protecting my chickens from predators. Now a 1 kW autonomous tank robot you text from your phone: 601-class vision on a Jetson, dual PTZ cameras, 3D LIDAR, and it pulls a cart of firewood. Actually."></a>
+<a href="https://github.com/nicedreamzapp/VisionBuilder"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-goal.svg" width="294" alt="The honest goal A Lego-clip-in modular robotics kit running the same local-AI brain as the desk. VisionBuilder trains its eyes from photos on my phone. Jetson Orin Nano · YOLOv8 · Teensy · RPLidar · Robotics"></a>
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/cards/s10-exo.svg" width="294" alt="Also on the bench: Run + Sit Exo A powered knee exoskeleton design I&#x27;m working on. It&#x27;s a design and prototype, not a finished product.">
+<a href="https://youtu.be/NWnGvvdvRik"><img src="https://img.youtube.com/vi/NWnGvvdvRik/mqdefault.jpg" width="294" alt="Watch the 53-second Cemani robot demo"></a>
 
-<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/seeds-strip.svg" width="100%" alt="You hand a robot a bag of seeds, show it where the hose is, and a few months later there are vegetables on the table.">
+</div>
 
-It $\color{#16a34a}{\textsf{\textbf{plants}}}$, $\color{#0284c7}{\textsf{\textbf{waters}}}$, $\color{#7c3aed}{\textsf{\textbf{weeds}}}$, $\color{#d97706}{\textsf{\textbf{harvests}}}$, $\color{#e11d48}{\textsf{\textbf{carries the food in}}}$, and someday maybe cooks it too.\
-☀️ It $\color{#d97706}{\textsf{\textbf{charges from the sun}}}$ and its $\color{#7c3aed}{\textsf{\textbf{whole brain lives inside it}}}$, so it keeps working where there's $\color{#0284c7}{\textsf{\textbf{no internet at all}}}$.
+<div align="center">
 
-### 🏘️ Now picture dropping two of them in a village
+🔗 **[Cemani Homestead Robot](https://github.com/nicedreamzapp/CemaniHomesteadRobot)** [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-cemanihomesteadrobot-d8038a.svg)](https://github.com/nicedreamzapp/CemaniHomesteadRobot/stargazers) · [VisionBuilder](https://github.com/nicedreamzapp/VisionBuilder) · [▶ 53-second demo](https://youtu.be/NWnGvvdvRik)
 
-...where $\color{#e11d48}{\textsf{\textbf{people are hungry}}}$ and there's $\color{#0284c7}{\textsf{\textbf{no signal for a hundred miles}}}$.
-
-| | |
-|:---:|---|
-| 💧 | They $\color{#0284c7}{\textsf{\textbf{dig the well}}}$, |
-| 🌾 | $\color{#16a34a}{\textsf{\textbf{plant the rows}}}$, |
-| 🧺 | and $\color{#d97706}{\textsf{\textbf{bring in the harvest}}}$. |
-
-That's the science fiction story I'm building toward, and I think we're $\color{#7c3aed}{\textsf{\textbf{closer to it than most people realize}}}$.
-
-### 🧩 Every repo on this page is a piece of it.
-
-| | Piece | What it does |
-|:---:|---|---|
-| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-eyes.svg" alt="Eyes"> | **[RealTime AI Cam](https://github.com/nicedreamzapp/RealTimeAICam)** is the eyes | A vision model that runs fully offline on a phone, and along the way it turned out to help blind people see. |
-| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-brain.svg" alt="Brain"> | **[Claude Code Local](https://github.com/nicedreamzapp/claude-code-local)** is the brain | The brain without a cloud. |
-| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-body.svg" alt="Body"> | **The Cemani robot** is the first body | See below. |
-
-📴 Right now I'm scraping the edges, but every piece $\color{#16a34a}{\textsf{\textbf{works with the wifi off}}}$, and that's on purpose.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/bar-lime.svg" width="100%" height="6" alt="">
-<h3>🐓 <a href="https://github.com/nicedreamzapp/CemaniHomesteadRobot">Cemani Homestead Robot</a></h3>
-<a href="https://github.com/nicedreamzapp/CemaniHomesteadRobot/stargazers"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-cemanihomesteadrobot-d8038a.svg" alt="Stars"></a>
-<br><br>
-Started with protecting my chickens from predators. Now:<br><br>
-🚜 A <b>1 kW</b> autonomous tank robot you text from your phone<br>
-👁️ <b>601</b>-class vision on a Jetson<br>
-📷 Dual PTZ cameras, 3D LIDAR<br>
-🪵 It pulls a cart of firewood. Actually.
-<br><br>
-The honest goal: a Lego-clip-in modular robotics kit running the same local-AI brain as the desk. <a href="https://github.com/nicedreamzapp/VisionBuilder">VisionBuilder</a> trains its eyes from photos on my phone.
-<br><br>
-<code>Jetson Orin Nano</code> <code>YOLOv8</code> <code>Teensy</code> <code>RPLidar</code> <code>Robotics</code>
-</td>
-<td width="50%" valign="middle" align="center">
-<a href="https://youtu.be/NWnGvvdvRik"><img src="https://img.youtube.com/vi/NWnGvvdvRik/maxresdefault.jpg" width="100%" alt="▶ Watch the 53-second demo"></a>
-<br>
-<sub>▶ Watch the 53-second demo</sub>
-</td>
-</tr>
-</table>
-
-🦿 **Also on the bench: Run + Sit Exo**, a powered knee exoskeleton design I'm working on. It's a design and prototype, not a finished product.
-
-<br>
+</div>
 
 <a id="family"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s11-family.svg" width="100%" alt="11. The family project: Brainforest">
