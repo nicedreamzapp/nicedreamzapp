@@ -192,28 +192,33 @@ Its vision and audio towers had no open runtime for Apple Silicon. So I wrote on
 <a id="building"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s06-building.svg" width="100%" alt="06. What I'm actually building">
 
-Most of these repos look standalone. They're not.\
-They're one system spread across **three machines** that talk to each other **24/7**:
+### 🧩 Most of these repos look standalone. They're not.
+
+They're $\color{#7c3aed}{\textsf{\textbf{one system}}}$ spread across **three machines** that talk to each other **24/7**.
+
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/building-tiles.svg" width="100%" alt="3 machines, 24/7, 13 always-on agents, $0 per call">
 
 | | Machine | Job |
 |:---:|---|---|
-| 💻 | **M5 Max MacBook Pro · 128 GB** | Heavy compute: model inference, video, image, training |
-| 🖥️ | **M4 Mac mini · 64 GB** | Always-on workhorse: autonomous agents, FiaOS web shell, free Claude for the whole mesh |
-| ☁️ | **Hostinger VPS** | Public gateway: HQ Dashboard, the Ohm chat agent, sites, cron |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-workstation.svg" alt="Workstation"> | **M5 Max MacBook Pro · 128 GB** | $\color{#7c3aed}{\textsf{\textbf{Heavy compute}}}$: model inference, video, image, training |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-workhorse.svg" alt="Workhorse"> | **M4 Mac mini · 64 GB** | $\color{#0284c7}{\textsf{\textbf{Always-on workhorse}}}$: autonomous agents, FiaOS web shell, free Claude for the whole mesh |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-gateway.svg" alt="Gateway"> | **Hostinger VPS** | $\color{#d97706}{\textsf{\textbf{Public gateway}}}$: HQ Dashboard, the Ohm chat agent, sites, cron |
 
-#### 💡 The idea
+### 💡 The idea
 
-- Apple Silicon is fast enough now that the everyday AI I want doesn't need a cloud subscription.
-- Build local-first, stay useful when the internet goes down.
-- The same stack is airgap-ready, which matters to the law / medical / compliance-sensitive firms I work with through Nice Dreamz LLC.
+- ⚡ Apple Silicon is fast enough now that the everyday AI I want $\color{#16a34a}{\textsf{\textbf{does not need a cloud subscription}}}$.
+- 🏠 $\color{#0284c7}{\textsf{\textbf{Build local-first}}}$, stay useful when the internet goes down.
+- 🔒 The same stack is $\color{#7c3aed}{\textsf{\textbf{airgap-ready}}}$, which matters to the law / medical / compliance-sensitive firms I work with through Nice Dreamz LLC.
 
-#### 🤖 **13** always-on agents run across those nodes
+### 🤖 **13** always-on agents run across those nodes
 
-- A GitHub watcher that drafts issue replies with local AI and texts me the draft
-- A **9am** iMessage business briefing
-- Email triage
-- A Reddit brand watcher
-- The trick that powers it all: `mini_claude`, which lets every agent use my Claude Max plan for **$0** per call
+| | Agent |
+|:---:|---|
+| 🐙 | A $\color{#7c3aed}{\textsf{\textbf{GitHub watcher}}}$ that drafts issue replies with local AI and texts me the draft |
+| ☀️ | A **9am** $\color{#d97706}{\textsf{\textbf{iMessage business briefing}}}$ |
+| 📬 | $\color{#0284c7}{\textsf{\textbf{Email triage}}}$ |
+| 👀 | A $\color{#e11d48}{\textsf{\textbf{Reddit brand watcher}}}$ |
+| 🔑 | The trick that powers it all: `mini_claude`, which lets every agent use my Claude Max plan for $\color{#16a34a}{\textsf{\textbf{zero dollars per call}}}$ |
 
 <details>
 <summary><i>the wiring diagram, if you like that sort of thing</i></summary>
