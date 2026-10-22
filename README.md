@@ -333,20 +333,36 @@ Control Claude Code from your iPhone via iMessage. Commands by text; screenshots
 <a id="long-arc"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s10-long-arc.svg" width="100%" alt="10. The long-arc bet: a robot that grows food">
 
-Here's where all of this is headed.\
-You hand a robot a bag of seeds, show it where the hose is, and a few months later there are vegetables on the table.\
-It plants, waters, weeds, harvests, carries the food in, and someday maybe cooks it too.\
-It charges from the sun and its whole brain lives inside it, so it keeps working where there's no internet at all.
+### 🌱 Here's where all of this is headed.
 
-Now picture dropping two of them in a village where people are hungry and there's no signal for a hundred miles.\
-They dig the well, plant the rows, and bring in the harvest.\
-That's the science fiction story I'm building toward, and I think we're closer to it than most people realize.
+You hand a robot $\color{#16a34a}{\textsf{\textbf{a bag of seeds}}}$, show it $\color{#0284c7}{\textsf{\textbf{where the hose is}}}$, and a few months later there are $\color{#d97706}{\textsf{\textbf{vegetables on the table}}}$.
 
-Every repo on this page is a piece of it.\
-[RealTime AI Cam](https://github.com/nicedreamzapp/RealTimeAICam) is the eyes: a vision model that runs fully offline on a phone, and along the way it turned out to help blind people see.\
-[Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) is the brain without a cloud.\
-The Cemani robot is the first body.\
-Right now I'm scraping the edges, but every piece works with the wifi off, and that's on purpose.
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/seeds-strip.svg" width="100%" alt="You hand a robot a bag of seeds, show it where the hose is, and a few months later there are vegetables on the table.">
+
+It $\color{#16a34a}{\textsf{\textbf{plants}}}$, $\color{#0284c7}{\textsf{\textbf{waters}}}$, $\color{#7c3aed}{\textsf{\textbf{weeds}}}$, $\color{#d97706}{\textsf{\textbf{harvests}}}$, $\color{#e11d48}{\textsf{\textbf{carries the food in}}}$, and someday maybe cooks it too.\
+☀️ It $\color{#d97706}{\textsf{\textbf{charges from the sun}}}$ and its $\color{#7c3aed}{\textsf{\textbf{whole brain lives inside it}}}$, so it keeps working where there's $\color{#0284c7}{\textsf{\textbf{no internet at all}}}$.
+
+### 🏘️ Now picture dropping two of them in a village
+
+...where $\color{#e11d48}{\textsf{\textbf{people are hungry}}}$ and there's $\color{#0284c7}{\textsf{\textbf{no signal for a hundred miles}}}$.
+
+| | |
+|:---:|---|
+| 💧 | They $\color{#0284c7}{\textsf{\textbf{dig the well}}}$, |
+| 🌾 | $\color{#16a34a}{\textsf{\textbf{plant the rows}}}$, |
+| 🧺 | and $\color{#d97706}{\textsf{\textbf{bring in the harvest}}}$. |
+
+That's the science fiction story I'm building toward, and I think we're $\color{#7c3aed}{\textsf{\textbf{closer to it than most people realize}}}$.
+
+### 🧩 Every repo on this page is a piece of it.
+
+| | Piece | What it does |
+|:---:|---|---|
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-eyes.svg" alt="Eyes"> | **[RealTime AI Cam](https://github.com/nicedreamzapp/RealTimeAICam)** is the eyes | A vision model that runs fully offline on a phone, and along the way it turned out to help blind people see. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-brain.svg" alt="Brain"> | **[Claude Code Local](https://github.com/nicedreamzapp/claude-code-local)** is the brain | The brain without a cloud. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-body.svg" alt="Body"> | **The Cemani robot** is the first body | See below. |
+
+📴 Right now I'm scraping the edges, but every piece $\color{#16a34a}{\textsf{\textbf{works with the wifi off}}}$, and that's on purpose.
 
 <table>
 <tr>
