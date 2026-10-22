@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132" role="img" aria-label="2B version 99.0% on 400 held-out photos. 0.8B at 622 MB, 98.5%. About a dozen versions over one month. 27B teacher."><g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><g transform="translate(0.0,0)"><rect width="208.0" height="132" rx="14" fill="#161b22" stroke="#22c55e" stroke-opacity=".55"/>
+<rect width="208.0" height="6" rx="3" fill="#22c55e"/>
+<text x="104.0" y="62" text-anchor="middle" font-size="38" font-weight="800" fill="#22c55e">99.0%</text>
+<text x="104.0" y="92" text-anchor="middle" font-size="15" fill="#e6edf3">2B version, on 400</text>
+<text x="104.0" y="113" text-anchor="middle" font-size="15" fill="#8b949e">held-out photos</text></g><g transform="translate(224.0,0)"><rect width="208.0" height="132" rx="14" fill="#161b22" stroke="#06b6d4" stroke-opacity=".55"/>
+<rect width="208.0" height="6" rx="3" fill="#06b6d4"/>
+<text x="104.0" y="62" text-anchor="middle" font-size="38" font-weight="800" fill="#06b6d4">98.5%</text>
+<text x="104.0" y="92" text-anchor="middle" font-size="15" fill="#e6edf3">the 0.8B, down to</text>
+<text x="104.0" y="113" text-anchor="middle" font-size="15" fill="#8b949e">622 MB</text></g><g transform="translate(448.0,0)"><rect width="208.0" height="132" rx="14" fill="#161b22" stroke="#a855f7" stroke-opacity=".55"/>
+<rect width="208.0" height="6" rx="3" fill="#a855f7"/>
+<text x="104.0" y="62" text-anchor="middle" font-size="38" font-weight="800" fill="#a855f7">~12</text>
+<text x="104.0" y="92" text-anchor="middle" font-size="15" fill="#e6edf3">versions over</text>
+<text x="104.0" y="113" text-anchor="middle" font-size="15" fill="#8b949e">one month</text></g><g transform="translate(672.0,0)"><rect width="208.0" height="132" rx="14" fill="#161b22" stroke="#f59e0b" stroke-opacity=".55"/>
+<rect width="208.0" height="6" rx="3" fill="#f59e0b"/>
+<text x="104.0" y="62" text-anchor="middle" font-size="38" font-weight="800" fill="#f59e0b">27B</text>
+<text x="104.0" y="92" text-anchor="middle" font-size="15" fill="#e6edf3">teacher model</text>
+<text x="104.0" y="113" text-anchor="middle" font-size="15" fill="#8b949e">for the fine-tune</text></g></g></svg>

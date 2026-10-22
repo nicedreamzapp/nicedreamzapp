@@ -19,28 +19,34 @@
 <a id="story"></a>
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/s01-story.svg" width="100%" alt="01. The story so far: from a chicken coop to robots that help people">
 
+### 🐔 Something was eating my chickens.
+
+That is the whole origin story.
+
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/story-1.svg" width="100%" alt="Chickens, a camera that sees at night, a vision model small enough for a robot">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/story-2.svg" width="100%" alt="AI on my own hardware, RealTime AI Cam, a robot that grows food">
+
 | | One step at a time |
 |:---:|---|
-| 🐔 | **Something was eating my chickens.** That is the whole origin story. |
-| 🌙 | Protecting them needed a camera that could see at night. |
-| 🤖 | That needed a vision model small enough to live on a robot. |
-| 💻 | That needed AI running on my own hardware instead of somebody else's cloud. |
-| 📷 | That became **[RealTime AI Cam](https://github.com/nicedreamzapp/RealTimeAICam)**: it names **601** objects, fully offline. |
-| 🦯 | Along the way it turned out to help blind people see, with no internet. |
+| 🌙 | Protecting them needed $\color{#0284c7}{\textsf{\textbf{a camera that could see at night}}}$. |
+| 🤖 | That needed $\color{#7c3aed}{\textsf{\textbf{a vision model small enough to live on a robot}}}$. |
+| 💻 | That needed $\color{#2563eb}{\textsf{\textbf{AI running on my own hardware}}}$ instead of somebody else's cloud. |
+| 📷 | That became **[RealTime AI Cam](https://github.com/nicedreamzapp/RealTimeAICam)**: it names **601** objects, $\color{#16a34a}{\textsf{\textbf{fully offline}}}$. |
+| 🦯 | Along the way it turned out to $\color{#e11d48}{\textsf{\textbf{help blind people see}}}$, with no internet. |
 | 🌱 | Next: [a robot that grows food](#long-arc). |
-| 🦿 | The bigger idea: robots that give people back what they've lost. |
+| 🦿 | The bigger idea: $\color{#d97706}{\textsf{\textbf{robots that give people back what they have lost}}}$. |
 
-Dozens of repos later I am somehow doing neuroscience, and every one of them still traces back to the coop.
+🧪 Dozens of repos later I am somehow $\color{#7c3aed}{\textsf{\textbf{doing neuroscience}}}$, and every one of them still traces back to the coop.
 
-#### 👁️ The model that does the describing
+### 👁️ The model that does the describing
 
-- **Vision Narrator 0.8B** is RealTime AI Cam's describer, and it's my own model: [on Hugging Face](https://huggingface.co/divinetribe/Vision-Narrator-0.8B-4bit-mlx).
-- A LoRA fine-tune of Qwen3.5-0.8B, taught by a **27B** teacher.
-- Trained on VizWiz: photos taken by blind people (CC BY 4.0).
-- About **a dozen versions** over **one month**.
-- A **2B** version reached **99.0%** on **400** held-out photos.
-- Then the **0.8B** got down to **622 MB** at **98.5%**.
-- 🎙️ I'm a guest on the Blind Android Users podcast, **Saturday, Oct 24, 2026**.
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/narrator-tiles.svg" width="100%" alt="2B version 99.0% on 400 held-out photos. 0.8B at 622 MB, 98.5%. About a dozen versions over one month. 27B teacher.">
+
+| | |
+|:---:|---|
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-model.svg" alt="My model"> | **Vision Narrator 0.8B** is RealTime AI Cam's describer, and it's my own model: [on Hugging Face](https://huggingface.co/divinetribe/Vision-Narrator-0.8B-4bit-mlx). A LoRA fine-tune of Qwen3.5-0.8B, taught by a **27B** teacher. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-data.svg" alt="Data"> | Trained on $\color{#0284c7}{\textsf{\textbf{VizWiz}}}$: photos taken by blind people (CC BY 4.0). About **a dozen versions** over **one month**. |
+| <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/profile/chip-podcast.svg" alt="Podcast"> | I'm a guest on the $\color{#e11d48}{\textsf{\textbf{Blind Android Users podcast}}}$, **Saturday, Oct 24, 2026**. |
 
 <br>
 
