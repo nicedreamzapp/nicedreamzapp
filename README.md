@@ -170,7 +170,13 @@ Control Claude Code from your iPhone via iMessage. Commands by text; screenshots
 
 ---
 
-## 🤖 THE LONG-ARC BET
+## 🤖 THE LONG-ARC BET: A ROBOT THAT GROWS FOOD
+
+Here's where all of this is headed. You hand a robot a bag of seeds, show it where the hose is, and a few months later there are vegetables on the table. It plants, waters, weeds, harvests, carries the food in, and someday maybe cooks it too. It charges from the sun and its whole brain lives inside it, so it keeps working where there's no internet at all.
+
+Now picture dropping two of them in a village where people are hungry and there's no signal for a hundred miles. They dig the well, plant the rows, and bring in the harvest. That's the science fiction story I'm building toward, and I think we're closer to it than most people realize.
+
+Every repo on this page is a piece of it. [RealTime AI Cam](https://github.com/nicedreamzapp/RealTimeAICam) is the eyes: a vision model that runs fully offline on a phone, and along the way it turned out to help blind people see. [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) is the brain without a cloud. The Cemani robot is the first body. Right now I'm scraping the edges, but every piece works with the wifi off, and that's on purpose.
 
 ### [Cemani Homestead Robot](https://github.com/nicedreamzapp/CemaniHomesteadRobot) &nbsp; [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-cemanihomesteadrobot-d8038a.svg)](https://github.com/nicedreamzapp/CemaniHomesteadRobot/stargazers)
 Started with protecting my chickens from predators. Now a 1 kW autonomous tank robot you text from your phone: 601-class vision on a Jetson, dual PTZ cameras, 3D LIDAR, and it pulls a cart of firewood. Actually. The honest goal: a Lego-clip-in modular robotics kit running the same local-AI brain as the desk. [VisionBuilder](https://github.com/nicedreamzapp/VisionBuilder) trains its eyes from photos on my phone.
