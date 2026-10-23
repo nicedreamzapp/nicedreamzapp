@@ -23,7 +23,24 @@ def fetch():
             time.sleep(30 * (attempt + 1))
 
 
-s = fetch()
+try:
+    s = fetch()
+except Exception as e:
+    # The site's firewall sometimes blocks GitHub's runners for hours. Keep the last numbers
+    # in README.md instead of failing the job (a failure emails Matt for nothing).
+    print(f"::warning::stats.json unreachable ({e}); keeping the current app numbers")
+    s = None
+if s is None:
+    import sys
+    md = open("README.md").read()
+    try:
+        repo = json.load(urllib.request.urlopen("https://api.github.com/repos/nicedreamzapp/claude-code-local", timeout=60))
+        ccl = "%s+ stars, %s forks" % ("{:,}".format(repo["stargazers_count"] // 100 * 100), "{:,}".format(repo["forks_count"]))
+        md = re.sub(r"(<!--CCL:START-->).*?(<!--CCL:END-->)", lambda m: m.group(1) + ccl + m.group(2), md, flags=re.S)
+        open("README.md", "w").write(md)
+    except Exception as e:
+        print(f"::warning::GitHub API unreachable ({e})")
+    sys.exit(0)
 t = s["totals"]
 fmt = "{:,}".format
 
