@@ -89,7 +89,7 @@
 
 📬 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · 📚 **[Case studies](https://nicedreamzwholesale.com/software/case-studies/)** · 🧠 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,300+ stars, 638 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [Agent-12](https://github.com/nicedreamzapp/agent12) · [@galashko](https://github.com/galashko) · [HQ](https://github.com/nicedreamzapp/how-my-shop-runs)
 
-📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,268 downloads** so far (1,514 App Store, 754 Google Play), 40 new on iPhone in the last week.<!--APPS-LINE:END-->
+📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,268 downloads** so far (1,514 App Store, 754 Google Play), 34 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/ac7196fa904c23a0ff2a4cef0d189ad0e6ba3c4d/assets/profile/rows/s02-rule.svg" width="100%" alt="">
 
@@ -117,18 +117,18 @@
 <picture><source media="(max-width: 610px), (min-width: 768px) and (max-width: 895px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/ac7196fa904c23a0ff2a4cef0d189ad0e6ba3c4d/assets/profile/rows/s04-banner-m.svg"><source media="(max-width: 1149px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/ac7196fa904c23a0ff2a4cef0d189ad0e6ba3c4d/assets/profile/rows/s04-banner-mid.svg"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/ac7196fa904c23a0ff2a4cef0d189ad0e6ba3c4d/assets/profile/rows/s04-banner.svg" width="100%" alt="04. App stats. Updated automatically every day"></picture>
 
 <!--APP-STATS:START-->
-> _Updated automatically **Oct 23, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
+> _Updated automatically **Oct 24, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,695** | 1,170 | 525 | 15 | ★ 5.0 (2) |
-| **Song Forge** | Jul 2026 | **283** | 113 | 170 | 5 | – |
-| **RealTime Space** | Jul 2026 | **215** | 167 | 48 | 16 | – |
-| **Brainforest** | Jul 2026 | **69** | 62 | 7 | 3 | ★ 5.0 (1) |
+| **RealTime AI Cam** | Aug 2025 | **1,695** | 1,170 | 525 | 12 | ★ 5.0 (2) |
+| **Song Forge** | Jul 2026 | **283** | 113 | 170 | 4 | – |
+| **RealTime Space** | Jul 2026 | **215** | 167 | 48 | 15 | – |
+| **Brainforest** | Jul 2026 | **69** | 62 | 7 | 2 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **6** | 2 | 4 | 1 | – |
-| **Total** | | **2,268** | **1,514** | **754** | **40** | |
+| **Total** | | **2,268** | **1,514** | **754** | **34** | |
 
-**New iPhone downloads per week, last 8 weeks:** 40 → 47 → 90 → 108 → 92 → 140 → 75 → 40 (-35 vs the week before).
+**New iPhone downloads per week, last 8 weeks:** 37 → 46 → 89 → 114 → 149 → 93 → 61 → 34 (-27 vs the week before).
 <!--APP-STATS:END-->
 
 <a id="just-shipped"></a>
