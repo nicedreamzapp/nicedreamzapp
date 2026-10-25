@@ -323,7 +323,6 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 ![JavaScript](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-javascript-f7df1e-088fee.svg)
 ![Apple Silicon](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-apple-silicon-000000-d5b7f3.svg)
 ![MLX](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-mlx-8b5cf6-c88f0d.svg)
-![Claude](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-claude-d97757-7966d2.svg)
 ![CoreML](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-coreml-2563eb-522705.svg)
 ![Flask](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-flask-000000-cac63f.svg)
 ![nginx](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-nginx-009639-21c450.svg)
@@ -359,6 +358,6 @@ Every model we run is also scored on real agent tasks at the open [Agent-12 lead
 
 **[ineedhemp.com](https://ineedhemp.com) · [GitHub](https://github.com/nicedreamzapp) · [LinkedIn](https://www.linkedin.com/in/matt-macosko-34708235/)**
 
-Built with code, caffeine, and Claude · Humboldt County, CA · the chickens are fine
+Built with code and caffeine · Humboldt County, CA · the chickens are fine
 
 </div>
