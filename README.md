@@ -89,7 +89,7 @@
 
 📬 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · 📚 **[Case studies](https://nicedreamzwholesale.com/software/case-studies/)** · 🧠 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,300+ stars, 638 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [Agent-12](https://github.com/nicedreamzapp/agent12) · [@galashko](https://github.com/galashko) · [HQ](https://github.com/nicedreamzapp/how-my-shop-runs)
 
-📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,324 downloads** so far (1,551 App Store, 773 Google Play), 51 new on iPhone in the last week.<!--APPS-LINE:END-->
+📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,333 downloads** so far (1,551 App Store, 782 Google Play), 51 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/86e78229cecef717d58de456c3d0c08fb1618986/assets/profile/rows/s02-rule.svg" width="100%" alt="">
 
@@ -121,12 +121,12 @@
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,714** | 1,177 | 537 | 12 | ★ 5.0 (2) |
-| **Song Forge** | Jul 2026 | **291** | 118 | 173 | 7 | – |
-| **RealTime Space** | Jul 2026 | **241** | 189 | 52 | 27 | – |
+| **RealTime AI Cam** | Aug 2025 | **1,717** | 1,177 | 540 | 12 | ★ 5.0 (2) |
+| **Song Forge** | Jul 2026 | **296** | 118 | 178 | 7 | – |
+| **RealTime Space** | Jul 2026 | **242** | 189 | 53 | 27 | – |
 | **Brainforest** | Jul 2026 | **72** | 65 | 7 | 5 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **6** | 2 | 4 | 0 | – |
-| **Total** | | **2,324** | **1,551** | **773** | **51** | |
+| **Total** | | **2,333** | **1,551** | **782** | **51** | |
 
 **New iPhone downloads per week, last 8 weeks:** 40 → 78 → 117 → 65 → 157 → 85 → 49 → 51 (+2 vs the week before).
 <!--APP-STATS:END-->
