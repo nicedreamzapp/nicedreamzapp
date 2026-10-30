@@ -248,7 +248,9 @@
 
 🧱 **The honest goal** · A Lego-clip-in modular robotics kit running the same local-AI brain as the desk. VisionBuilder trains its eyes from photos on my phone.
 
-🦿 **Also on the bench: Run + Sit Exo** · A powered knee exoskeleton design I'm working on. It's a design and prototype, not a finished product.
+🦿 **[Sitka](https://github.com/nicedreamzapp/sitka) is a body for people** · An open exoskeleton that works with your body: springs, clutches and cable tendons do most of the work, with one optional motor. Its smart tier carries a tiny model, about 6 KB, that reads motion sensors and tells the clutches when to lock as you walk, sit or lift. Plain safety rules keep the final say. [Watch it think in the 3D viewer](https://nicedreamzapp.github.io/sitka/sitka_viewer.html). It's a design, not a product yet.
+
+🌙 **[Moonstone](https://github.com/nicedreamzapp/moonstone) is how you talk to all of it** · Think it, say it, it's done. Moonstone started as one window for every AI session on every machine I own and is turning into your own HQ in your pocket: it picks the smallest model that can do each job, runs local when it can, and calls the cloud for the hard stuff. Same eyes, same brain, and the bodies keep coming.
 
 
 🔗 [Cemani Homestead Robot](https://github.com/nicedreamzapp/CemaniHomesteadRobot) [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-cemanihomesteadrobot-d8038a.svg)](https://github.com/nicedreamzapp/CemaniHomesteadRobot/stargazers) · ▶ [53-second demo](https://youtu.be/NWnGvvdvRik) · [VisionBuilder](https://github.com/nicedreamzapp/VisionBuilder) · [RealTime AI Cam](https://github.com/nicedreamzapp/RealTimeAICam) · [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local)
