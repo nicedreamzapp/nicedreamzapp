@@ -87,9 +87,9 @@
 🏪 **HQ: the AI system that runs my shop** · Orders from checkout to the door, four-second shipping labels, support drafts I approve, and agents on four machines sharing one memory.
 
 
-📬 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · 📚 **[Case studies](https://nicedreamzwholesale.com/software/case-studies/)** · 🧠 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 639 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [Agent-12](https://github.com/nicedreamzapp/agent12) · [@galashko](https://github.com/galashko) · [HQ](https://github.com/nicedreamzapp/how-my-shop-runs)
+📬 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · 📚 **[Case studies](https://nicedreamzwholesale.com/software/case-studies/)** · 🧠 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 640 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [Agent-12](https://github.com/nicedreamzapp/agent12) · [@galashko](https://github.com/galashko) · [HQ](https://github.com/nicedreamzapp/how-my-shop-runs)
 
-📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,054 downloads** so far (1,236 App Store, 818 Google Play), 44 new on iPhone in the last week.<!--APPS-LINE:END-->
+📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,063 downloads** so far (1,236 App Store, 827 Google Play), 51 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/86e78229cecef717d58de456c3d0c08fb1618986/assets/profile/rows/s02-rule.svg" width="100%" alt="">
 
@@ -121,14 +121,14 @@
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,576** | 1,012 | 564 | 9 | ★ 5.0 (2) |
-| **Song Forge** | Jul 2026 | **274** | 88 | 186 | 8 | – |
-| **RealTime Space** | Jul 2026 | **143** | 87 | 56 | 22 | – |
+| **RealTime AI Cam** | Aug 2025 | **1,582** | 1,012 | 570 | 13 | ★ 5.0 (2) |
+| **Song Forge** | Jul 2026 | **277** | 88 | 189 | 8 | – |
+| **RealTime Space** | Jul 2026 | **143** | 87 | 56 | 25 | – |
 | **Brainforest** | Jul 2026 | **56** | 49 | 7 | 5 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **5** | 0 | 5 | 0 | – |
-| **Total** | | **2,054** | **1,236** | **818** | **44** | |
+| **Total** | | **2,063** | **1,236** | **827** | **51** | |
 
-**New iPhone downloads per week, last 8 weeks:** 52 → 87 → 109 → 156 → 91 → 54 → 44 → 44 (+0 vs the week before).
+**New iPhone downloads per week, last 8 weeks:** 52 → 87 → 109 → 156 → 91 → 54 → 44 → 51 (+7 vs the week before).
 <!--APP-STATS:END-->
 
 <a id="just-shipped"></a>
