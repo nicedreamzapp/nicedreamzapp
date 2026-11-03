@@ -87,9 +87,9 @@
 🏪 **HQ: the AI system that runs my shop** · Orders from checkout to the door, four-second shipping labels, support drafts I approve, and agents on four machines sharing one memory.
 
 
-📬 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · 📚 **[Case studies](https://nicedreamzwholesale.com/software/case-studies/)** · 🧠 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 646 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [Agent-12](https://github.com/nicedreamzapp/agent12) · [@galashko](https://github.com/galashko) · [HQ](https://github.com/nicedreamzapp/how-my-shop-runs)
+📬 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · 📚 **[Case studies](https://nicedreamzwholesale.com/software/case-studies/)** · 🧠 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 645 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [Agent-12](https://github.com/nicedreamzapp/agent12) · [@galashko](https://github.com/galashko) · [HQ](https://github.com/nicedreamzapp/how-my-shop-runs)
 
-📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,089 downloads** so far (1,245 App Store, 844 Google Play), 50 new on iPhone in the last week.<!--APPS-LINE:END-->
+📱 **Shipped apps**: <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,107 downloads** so far (1,252 App Store, 855 Google Play), 49 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/e3271fa4c98f7be9a10260475e2dfdb6bcd247bb/assets/profile/rows/s02-rule.svg" width="100%" alt="">
 
@@ -117,18 +117,18 @@
 <picture><source media="(max-width: 610px), (min-width: 768px) and (max-width: 895px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/e3271fa4c98f7be9a10260475e2dfdb6bcd247bb/assets/profile/rows/s04-banner-m.svg"><source media="(max-width: 1149px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/e3271fa4c98f7be9a10260475e2dfdb6bcd247bb/assets/profile/rows/s04-banner-mid.svg"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/e3271fa4c98f7be9a10260475e2dfdb6bcd247bb/assets/profile/rows/s04-banner.svg" width="100%" alt="04. App stats. Updated automatically every day"></picture>
 
 <!--APP-STATS:START-->
-> _Updated automatically **Nov 2, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
+> _Updated automatically **Nov 3, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,596** | 1,016 | 580 | 14 | ★ 5.0 (2) |
-| **Song Forge** | Jul 2026 | **282** | 89 | 193 | 9 | – |
-| **RealTime Space** | Jul 2026 | **149** | 91 | 58 | 24 | – |
-| **Brainforest** | Jul 2026 | **56** | 49 | 7 | 3 | ★ 5.0 (1) |
+| **RealTime AI Cam** | Aug 2025 | **1,606** | 1,018 | 588 | 15 | ★ 5.0 (2) |
+| **Song Forge** | Jul 2026 | **285** | 90 | 195 | 9 | – |
+| **RealTime Space** | Jul 2026 | **154** | 95 | 59 | 23 | – |
+| **Brainforest** | Jul 2026 | **56** | 49 | 7 | 2 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **6** | 0 | 6 | 0 | – |
-| **Total** | | **2,089** | **1,245** | **844** | **50** | |
+| **Total** | | **2,107** | **1,252** | **855** | **49** | |
 
-**New iPhone downloads per week, last 8 weeks:** 73 → 91 → 93 → 159 → 83 → 50 → 49 → 50 (+1 vs the week before).
+**New iPhone downloads per week, last 8 weeks:** 78 → 117 → 65 → 157 → 85 → 49 → 51 → 49 (-2 vs the week before).
 <!--APP-STATS:END-->
 
 <a id="just-shipped"></a>
