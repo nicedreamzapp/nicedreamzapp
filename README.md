@@ -103,7 +103,7 @@
 > 📱 **Every app, both stores.** All 5 are live on the App Store and Google Play. Private by default, pay once (or nothing), no subscriptions. Android source ships in each repo's android/ folder.
 
 
-📱 <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,821 downloads** so far (1,948 App Store, 873 Google Play), 56 new on iPhone in the last week.<!--APPS-LINE:END-->
+📱 <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,836 downloads** so far (1,951 App Store, 885 Google Play), 47 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 🍎 **App Store:** [Song Forge](https://apps.apple.com/us/app/id6788616929) · [RealTime AI Cam](https://apps.apple.com/us/app/id6751230739) · [RealTime Space](https://apps.apple.com/us/app/id6788646103) · [Brainforest](https://apps.apple.com/us/app/id6788301765) · [Hive Strike](https://apps.apple.com/us/app/id6808332314)<br>
 🤖 **Google Play:** [Song Forge](https://play.google.com/store/apps/details?id=com.nicedreamz.ownatune) · [RealTime AI Cam](https://play.google.com/store/apps/details?id=com.mattmacosko.realtimeaicam) · [RealTime Space](https://play.google.com/store/apps/details?id=com.nicedreamz.realtimespace) · [Brainforest](https://play.google.com/store/apps/details?id=com.brainforest.app) · [Hive Strike](https://play.google.com/store/apps/details?id=com.nicedreamz.hivestrike)
@@ -111,18 +111,18 @@
 <a id="app-stats"></a>
 
 <!--APP-STATS:START-->
-> _Updated automatically **Nov 6, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
+> _Updated automatically **Nov 7, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,918** | 1,322 | 596 | 18 | ★ 5.0 (2) |
-| **Song Forge** | Jul 2026 | **404** | 202 | 202 | 11 | – |
-| **RealTime Space** | Jul 2026 | **391** | 330 | 61 | 23 | – |
-| **Brainforest** | Jul 2026 | **94** | 87 | 7 | 3 | ★ 5.0 (1) |
+| **RealTime AI Cam** | Aug 2025 | **1,929** | 1,324 | 605 | 18 | ★ 5.0 (2) |
+| **Song Forge** | Jul 2026 | **404** | 202 | 202 | 7 | – |
+| **RealTime Space** | Jul 2026 | **392** | 331 | 61 | 19 | – |
+| **Brainforest** | Jul 2026 | **97** | 87 | 10 | 2 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **14** | 7 | 7 | 1 | – |
-| **Total** | | **2,821** | **1,948** | **873** | **56** | |
+| **Total** | | **2,836** | **1,951** | **885** | **47** | |
 
-**New iPhone downloads per week, last 8 weeks:** 90 → 108 → 92 → 140 → 75 → 40 → 51 → 56 (+5 vs the week before).
+**New iPhone downloads per week, last 8 weeks:** 89 → 114 → 149 → 93 → 61 → 41 → 56 → 47 (-9 vs the week before).
 <!--APP-STATS:END-->
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/67d867b74e01697577477ffc09a23b5eefbc95ff/assets/profile/rows/s05-rule.svg" width="100%" alt="">
