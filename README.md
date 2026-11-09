@@ -3,6 +3,8 @@
 <div align="center">
 
 [![Hugging Face](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-hugging-20face-divinetribe-ffcc4d-8a422b.svg)](https://huggingface.co/divinetribe)
+[![X](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-x-nicedreamzapps-000000-be0a57.svg)](https://x.com/NiceDreamzApps)
+[![LinkedIn](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-linkedin-matt-macosko-0a66c2-5a2140.svg)](https://www.linkedin.com/in/matt-macosko-34708235)
 [![GitHub followers](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-followers-nicedreamzapp-c923c7.svg)](https://github.com/nicedreamzapp)
 [![Mentioned in Awesome Claude Code](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-mentioned-in-awesome-claude-code-fc60a8-500728.svg)](https://github.com/hesreallyhim/awesome-claude-code)
 [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-claude-code-local-af34a8.svg)](https://github.com/nicedreamzapp/claude-code-local)
