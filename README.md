@@ -78,6 +78,8 @@
 
 <picture><source media="(max-width: 610px), (min-width: 768px) and (max-width: 895px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/67d867b74e01697577477ffc09a23b5eefbc95ff/assets/profile/rows/s-lately-r1-m.svg"><source media="(max-width: 1149px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/67d867b74e01697577477ffc09a23b5eefbc95ff/assets/profile/rows/s-lately-r1-mid.svg"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/67d867b74e01697577477ffc09a23b5eefbc95ff/assets/profile/rows/s-lately-r1.svg" width="100%" alt="3.6k+ GitHub stars across my 42 public repos. 38k+ Hugging Face downloads of my 29 open models."></picture>
 
+🆕 **Qwen 4 watch** · The day Alibaba releases Qwen 4, I test it inside Claude Code on a regular Mac and post the real numbers in **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local#-qwen-4-in-claude-code-local)**. Star it to catch it.
+
 **Building lately** (the week of Nov 2, numbers as of Nov 2, 2026)
 
 🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Claude Code Local now runs on Linux and Windows through a portable llama.cpp backend, with installers for both.
