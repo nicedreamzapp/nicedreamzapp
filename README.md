@@ -8,6 +8,12 @@
 [![App downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-downloads-2c2e02.svg)](#app-stats)
 [![New this week](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-week-20cec2.svg)](#app-stats)
 
+<!-- live-stats:start -->
+
+⭐ **3,693** GitHub stars ([github.com/nicedreamzapp](https://github.com/nicedreamzapp)) · ⬇️ **40,871** all-time downloads ([huggingface.co/divinetribe](https://huggingface.co/divinetribe))
+
+<!-- live-stats:end -->
+
 </div>
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/coop.gif?v=2" width="100%" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
