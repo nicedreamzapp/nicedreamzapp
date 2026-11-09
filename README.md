@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Hugging Face](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-hugging-20face-divinetribe-ffcc4d-8a422b.svg)](https://huggingface.co/divinetribe)
 [![GitHub followers](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-followers-nicedreamzapp-c923c7.svg)](https://github.com/nicedreamzapp)
 [![Mentioned in Awesome Claude Code](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-mentioned-in-awesome-claude-code-fc60a8-500728.svg)](https://github.com/hesreallyhim/awesome-claude-code)
 [![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-claude-code-local-af34a8.svg)](https://github.com/nicedreamzapp/claude-code-local)
