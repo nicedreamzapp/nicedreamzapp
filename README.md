@@ -8,12 +8,6 @@
 [![App downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-downloads-2c2e02.svg)](#app-stats)
 [![New this week](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-week-20cec2.svg)](#app-stats)
 
-<!-- live-stats:start -->
-
-⭐ **3,693** GitHub stars ([github.com/nicedreamzapp](https://github.com/nicedreamzapp)) · ⬇️ **40,871** all-time downloads ([huggingface.co/divinetribe](https://huggingface.co/divinetribe))
-
-<!-- live-stats:end -->
-
 </div>
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/coop.gif?v=2" width="100%" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
@@ -86,13 +80,13 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 9, 2026)
 
-🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Added a harsh jury QC pass, per shot color matching, stabilization and vertical 9:16 output to Story Forge.
+🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Added a harsh two round film QC jury, per shot color matching, a handheld stabilizer and vertical 9:16 reframing.
 
 🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a virtual Mac instead of my screen and pauses it when nobody is using it.
 
-🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · Shipped NarrateClaude 2.0 with barge in, so you can talk over the voice to stop it.
+🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Released v1.0.0 of claude-code-local so you can keep coding on a local model after hitting your limit.
 
-🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Released claude-code-local v1.0.0 and added Apple Silicon and model guides.
+🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · Shipped NarrateClaude 2.0.0, where you can talk over the voice to stop it.
 
 🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm in diameter so the glass slurper fits, and added 48 vent holes to the lid holder.
 
