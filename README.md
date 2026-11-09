@@ -80,13 +80,13 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 9, 2026)
 
-🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Story Forge gained a film QC jury, per shot color matching, a video stabilizer and vertical 9:16 layouts.
+🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Story Forge got a harsh QC jury, per shot color matching, video stabilization and a vertical 9:16 mode.
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a separate virtual Mac instead of my screen and pauses it when idle.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · My browser agent now leases a separate virtual Mac instead of my screen and pauses it when nobody is using it.
 
 🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped barge in, so you can talk over the voice to stop it.
 
-🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · claude-code-local reached v1.0.0, with new Apple Silicon and model guides plus an FAQ.
+🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Released v1.0.0 of my local Claude Code setup, plus new Apple Silicon and model guides.
 
 🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the glass oven 8 mm in diameter and added 48 vent holes to the lid ceramic holder.
 
