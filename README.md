@@ -80,15 +80,15 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 10, 2026)
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a separate virtual Mac instead of my screen and pauses it when nobody is using it.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · My browser agent now leases a virtual Mac instead of my screen and pauses it when nobody is using it.
 
-🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm in diameter so the glass slurper fits the top cap, and put 48 vent holes in the lid holder.
+🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · Shipped NarrateClaude 2.0.0 with barge in, so you can talk over the voice to stop it on macOS.
 
-🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped barge in, so on macOS you can talk over the voice to stop it.
+🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the glass oven 8 mm in diameter so the slurper fits, and added 48 vent holes to the lid holder.
 
-🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · The Moonstone console got a model picker, a usage bar, finish time estimates and a stall watch.
+🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · Moonstone's console got a model picker, a usage bar, finish time ETAs and a stall watch.
 
-🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Benchmarks for iPhone 1.4.0 and Android 1.28 are up, and Xcode Cloud now downloads the vision model itself.
+🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Benchmarks now cover iPhone 1.4.0 and Android 1.28, and Xcode Cloud downloads and checks the vision model.
 
 🔗 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 648 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [Browser Broker](https://github.com/nicedreamzapp/browser-broker) · [Browser Agent](https://github.com/nicedreamzapp/browser-agent) (▶ [56-second demo](https://youtu.be/SIuMNa2k6Wc)) · [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [Agent-12](https://nicedreamzapp.github.io/agent12/) · [@galashko](https://github.com/galashko) · [lfm-tool-calls](https://github.com/nicedreamzapp/lfm-tool-calls) · [Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)
 
