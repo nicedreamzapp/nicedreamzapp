@@ -80,13 +80,13 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 10, 2026)
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · My browser agent now leases a virtual Mac instead of my screen and suspends it when nobody is using it.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a separate virtual Mac instead of my screen and pauses it when nobody is using it.
 
-🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped with barge in, so you can talk over the voice to stop it.
+🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped with barge in, so you can talk over the voice on macOS to stop it.
 
-🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the Heat N Clean oven 8 mm so the glass slurper fits, and added 48 vent holes to the lid holder.
+🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the glass oven 8 mm so the slurper fits the top cap, and added 48 vent holes to the lid holder.
 
-🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Posted benchmarks for RealTime AI Cam iPhone 1.4.0 and Android 1.28, and fixed the Xcode Cloud builds.
+🔨 **[bodymovin-cast](https://github.com/nicedreamzapp/bodymovin-cast)** · Published a Google Cast receiver for Body Movin with privacy and support pages.
 
 🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · The Moonstone console got a model picker, a usage bar, finish time estimates and a stall watch.
 
