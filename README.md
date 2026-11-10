@@ -80,13 +80,13 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 10, 2026)
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a virtual Mac instead of my screen and pauses it when nobody is using it.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a separate virtual Mac instead of my screen, and pauses it when nobody is using it.
 
-🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped with barge in, so you can talk over the voice to stop it.
+🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm so the glass slurper fits the top cap, and added 48 vent holes to the lid ceramic holder.
 
-🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm so the glass slurper fits the top cap and added 48 vent holes to the lid holder.
+🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · Released NarrateClaude 2.0.0 with barge in, so you can talk over the voice to stop it.
 
-🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · The Moonstone console got a model picker, a usage bar, finish time estimates and tap to answer.
+🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · Moonstone got a model picker, accounts with Auto, a usage bar, finish time estimates and tap answers.
 
 🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Story Forge now prints a per part time estimate before every shot run.
 
