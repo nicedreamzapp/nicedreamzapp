@@ -2,15 +2,15 @@
 
 <div align="center">
 
-[![GitHub followers](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/badges/github-followers-nicedreamzapp-c923c7.svg)](https://github.com/nicedreamzapp)
-[![Mentioned in Awesome Claude Code](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/badges/badge-mentioned-in-awesome-claude-code-fc60a8-500728.svg)](https://github.com/hesreallyhim/awesome-claude-code)
-[![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/badges/github-stars-claude-code-local-af34a8.svg)](https://github.com/nicedreamzapp/claude-code-local)
-[![App downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/badges/app-downloads-2c2e02.svg)](#app-stats)
-[![New this week](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/badges/app-week-20cec2.svg)](#app-stats)
+[![GitHub followers](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-followers-nicedreamzapp-c923c7.svg)](https://github.com/nicedreamzapp)
+[![Mentioned in Awesome Claude Code](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/badge-mentioned-in-awesome-claude-code-fc60a8-500728.svg)](https://github.com/hesreallyhim/awesome-claude-code)
+[![Stars](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/github-stars-claude-code-local-af34a8.svg)](https://github.com/nicedreamzapp/claude-code-local)
+[![App downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-downloads-2c2e02.svg)](#app-stats)
+[![New this week](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-week-20cec2.svg)](#app-stats)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/coop.gif?v=2" width="100%" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
+<img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/coop.gif?v=2" width="100%" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
 
 <a id="story"></a>
 <picture><source media="(max-width: 610px), (min-width: 768px) and (max-width: 895px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/profile/rows/s01-banner-m.svg"><source media="(max-width: 1149px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/profile/rows/s01-banner-mid.svg"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/profile/rows/s01-banner.svg" width="100%" alt="01. The coop. Where all of this started"></picture>
@@ -80,15 +80,15 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 9, 2026)
 
-🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Story Forge got a harsh two round film QC jury, per shot color matching and a vertical 9:16 mode.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · My browser agent now leases a separate virtual Mac instead of my own screen and pauses it when idle.
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a virtual Mac instead of my screen and pauses it when nobody is using it.
+🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Story Forge now has a two round film jury, per shot color matching and a vertical 9:16 layout.
 
 🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped with barge in, so you can talk over the voice to stop it.
 
-🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Released claude-code-local v1.0.0 with new Apple Silicon and model guides.
+🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Tagged claude-code-local v1.0.0 and added Apple Silicon and model guides plus an FAQ.
 
-🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm so the glass slurper fits the top cap, and gave the lid holder 48 vent holes.
+🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm so the glass slurper fits and added 48 vent holes to the lid holder.
 
 🔗 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 648 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [Browser Broker](https://github.com/nicedreamzapp/browser-broker) · [Browser Agent](https://github.com/nicedreamzapp/browser-agent) (▶ [56-second demo](https://youtu.be/SIuMNa2k6Wc)) · [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [Agent-12](https://nicedreamzapp.github.io/agent12/) · [@galashko](https://github.com/galashko) · [lfm-tool-calls](https://github.com/nicedreamzapp/lfm-tool-calls) · [Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)
 
