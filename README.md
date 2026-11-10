@@ -80,15 +80,15 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 9, 2026)
 
-🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Released v1.0.0 and added Apple Silicon and model guides plus an FAQ to the docs.
+🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Added a two round QC jury, per shot color matching, handheld stabilizing and a vertical 9:16 mode to Story Forge.
 
-🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped barge in on macOS, so I can talk over the voice to stop it.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a separate virtual Mac instead of my screen and pauses it when nobody is using it.
 
-🔨 **[story-forge](https://github.com/nicedreamzapp/story-forge)** · Story Forge got a two round film jury, per shot color matching, a stabilizer and vertical 9:16 compositions.
+🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped with barge in, so you can talk over the voice to stop it.
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a virtual Mac instead of my screen and pauses it when nobody is using it.
+🔨 **[claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** · Tagged claude-code-local v1.0.0 and added Apple Silicon and model guides plus an FAQ.
 
-🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · RealTime AI Cam 1.4.0 is live on iPhone and 1.28 on Android, and Xcode Cloud now fetches the vision model.
+🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm in diameter so the glass slurper fits the top cap, and added 48 lid vent holes.
 
 🔗 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 648 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [Browser Broker](https://github.com/nicedreamzapp/browser-broker) · [Browser Agent](https://github.com/nicedreamzapp/browser-agent) (▶ [56-second demo](https://youtu.be/SIuMNa2k6Wc)) · [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [Agent-12](https://nicedreamzapp.github.io/agent12/) · [@galashko](https://github.com/galashko) · [lfm-tool-calls](https://github.com/nicedreamzapp/lfm-tool-calls) · [Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)
 
