@@ -80,13 +80,13 @@
 
 **Building lately** (the week of Nov 9, numbers as of Nov 10, 2026)
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser broker now leases a virtual Mac instead of my screen and pauses it when nobody is using it.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a separate virtual Mac instead of my screen and pauses it when nobody is using it.
 
-🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · NarrateClaude 2.0.0 shipped with barge in on macOS, so you can talk over the voice to stop it.
+🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · Shipped NarrateClaude 2.0.0 with barge in, so you can talk over the voice to stop it.
 
 🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm in diameter so the glass slurper fits, and added 48 vent holes to the lid holder.
 
-🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Benchmarks are up for iPhone 1.4.0 and Android 1.28, and Xcode Cloud now fetches the built in vision model.
+🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Benchmarks are up for iPhone 1.4.0 and Android 1.28, and Xcode Cloud now fetches the vision model.
 
 🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · The Moonstone console got a model picker, a usage bar, finish time ETAs and a stall watch.
 
