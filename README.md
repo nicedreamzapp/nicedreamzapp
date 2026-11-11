@@ -78,17 +78,17 @@
 
 <picture><source media="(max-width: 610px), (min-width: 768px) and (max-width: 895px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/profile/rows/s-lately-r1-m.svg"><source media="(max-width: 1149px)" srcset="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/profile/rows/s-lately-r1-mid.svg"><img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/a328a9beab67af18c7a84e4c8c71062b53429bc0/assets/profile/rows/s-lately-r1.svg" width="100%" alt="3.6k+ GitHub stars across my 43 public repos. 40k+ Hugging Face downloads of my 29 open models."></picture>
 
-**Building lately** (the week of Nov 9, numbers as of Nov 10, 2026)
+**Building lately** (the week of Nov 9, numbers as of Nov 11, 2026)
 
-🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · My browser broker now leases a separate virtual Mac instead of my screen, and pauses it when nobody is using it.
+🔨 **[browser-agent](https://github.com/nicedreamzapp/browser-agent)** · The browser agent now leases a separate virtual Mac instead of my screen, and pauses it when nobody is using it.
 
-🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · Released 2.0.0 with barge in on macOS, so you can talk over the voice to stop it.
+🔨 **[NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude)** · Released NarrateClaude 2.0.0, where you can talk over the voice on macOS to stop it.
 
-🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm in diameter so the glass slurper fits, and added 48 vent holes to the lid ceramic holder.
+🔨 **[Heat-N-Clean-Glass-Oven](https://github.com/nicedreamzapp/Heat-N-Clean-Glass-Oven)** · Shrank the oven 8 mm so the glass slurper fits the top cap, and added 48 vent holes to the lid holder.
 
-🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · The console now has a model picker, a usage bar, finish time ETAs and a stall watch.
+🔨 **[moonstone](https://github.com/nicedreamzapp/moonstone)** · The Moonstone console got a model picker, a usage bar, finish time estimates and a stall watch.
 
-🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Xcode Cloud builds now download and verify the built in vision model after clone.
+🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Xcode Cloud builds now download and verify the built in vision model and the llama.cpp framework.
 
 🔗 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,400+ stars, 648 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [Browser Broker](https://github.com/nicedreamzapp/browser-broker) · [Browser Agent](https://github.com/nicedreamzapp/browser-agent) (▶ [56-second demo](https://youtu.be/SIuMNa2k6Wc)) · [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [Agent-12](https://nicedreamzapp.github.io/agent12/) · [@galashko](https://github.com/galashko) · [lfm-tool-calls](https://github.com/nicedreamzapp/lfm-tool-calls) · [Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)
 
