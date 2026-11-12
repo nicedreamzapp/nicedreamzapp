@@ -109,7 +109,7 @@
 > 📱 **Every app, both stores.** All 5 are live on the App Store and Google Play. Private by default, pay once (or nothing), no subscriptions. Android source ships in each repo's android/ folder.
 
 
-📱 <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,916 downloads** so far (2,003 App Store, 913 Google Play), 69 new on iPhone in the last week.<!--APPS-LINE:END-->
+📱 <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **2,927 downloads** so far (2,003 App Store, 924 Google Play), 69 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 🍎 **App Store:** [Song Forge](https://apps.apple.com/us/app/id6788616929) · [RealTime AI Cam](https://apps.apple.com/us/app/id6751230739) · [RealTime Space](https://apps.apple.com/us/app/id6788646103) · [Brainforest](https://apps.apple.com/us/app/id6788301765) · [Hive Strike](https://apps.apple.com/us/app/id6808332314)<br>
 🤖 **Google Play:** [Song Forge](https://play.google.com/store/apps/details?id=com.nicedreamz.ownatune) · [RealTime AI Cam](https://play.google.com/store/apps/details?id=com.mattmacosko.realtimeaicam) · [RealTime Space](https://play.google.com/store/apps/details?id=com.nicedreamz.realtimespace) · [Brainforest](https://play.google.com/store/apps/details?id=com.brainforest.app) · [Hive Strike](https://play.google.com/store/apps/details?id=com.nicedreamz.hivestrike)
@@ -121,12 +121,12 @@
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **1,984** | 1,359 | 625 | 41 | ★ 5.0 (3) |
-| **Song Forge** | Jul 2026 | **413** | 205 | 208 | 6 | – |
+| **RealTime AI Cam** | Aug 2025 | **1,991** | 1,359 | 632 | 41 | ★ 5.0 (3) |
+| **Song Forge** | Jul 2026 | **417** | 205 | 212 | 6 | – |
 | **RealTime Space** | Jul 2026 | **406** | 344 | 62 | 19 | – |
 | **Brainforest** | Jul 2026 | **99** | 88 | 11 | 2 | ★ 5.0 (1) |
 | **Hive Strike** | Sep 2026 | **14** | 7 | 7 | 1 | – |
-| **Total** | | **2,916** | **2,003** | **913** | **69** | |
+| **Total** | | **2,927** | **2,003** | **924** | **69** | |
 
 **New iPhone downloads per week, last 8 weeks:** 115 → 72 → 148 → 85 → 43 → 54 → 51 → 69 (+18 vs the week before).
 <!--APP-STATS:END-->
