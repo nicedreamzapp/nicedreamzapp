@@ -10,7 +10,7 @@
 
 <!-- live-stats:start -->
 
-⭐ **3,724** GitHub stars ([github.com/nicedreamzapp](https://github.com/nicedreamzapp)) · ⬇️ **49,334** all-time downloads ([huggingface.co/divinetribe](https://huggingface.co/divinetribe))
+⭐ **3,726** GitHub stars ([github.com/nicedreamzapp](https://github.com/nicedreamzapp)) · ⬇️ **49,334** all-time downloads ([huggingface.co/divinetribe](https://huggingface.co/divinetribe))
 
 <!-- live-stats:end -->
 
