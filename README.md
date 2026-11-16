@@ -8,12 +8,6 @@
 [![App downloads](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-downloads-2c2e02.svg)](#app-stats)
 [![New this week](https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/badges/app-week-20cec2.svg)](#app-stats)
 
-<!-- live-stats:start -->
-
-⭐ **3,728** GitHub stars ([github.com/nicedreamzapp](https://github.com/nicedreamzapp)) · ⬇️ **50,990** all-time downloads ([huggingface.co/divinetribe](https://huggingface.co/divinetribe))
-
-<!-- live-stats:end -->
-
 </div>
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/main/assets/coop.gif?v=2" width="100%" alt="A local vision model tagging every chicken in the yard, running offline on an Apple Silicon Mac">
@@ -54,7 +48,7 @@
 
 🔍 **The detector rematch** · In a fair rematch on 150 photos, YOLOE-26 with 4,585 words lost to the app's 601-object detector: lower recall (0.15 vs 0.23), about 3x slower, and 48% of its confident labels outside the 601 were made up. The 601 detector kept its job.
 
-📱 **In the apps now** · iPhone 1.4.0 and Android 1.28 both pick from the four levels on their own.
+📱 **In the apps now** · iPhone 1.4.3 and Android 1.29 both pick from the four levels on their own.
 
 🎯 **How it picks** · Both apps pick the most accurate level each phone can run in time.
 
