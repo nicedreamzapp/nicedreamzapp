@@ -5,9 +5,19 @@ files. This keeps the profile honest without anyone remembering to update it (th
 typed by hand until 2026-09-27 and went stale within a week).
 Only text between the <!--X:START--> / <!--X:END--> markers is touched.
 """
-import json, re, time, urllib.request
+import json, os, re, time, urllib.request
 
 URL = "https://nicedreamzwholesale.com/software/stats.json"
+
+
+def gh_repo():
+    # Logged-in call: the anonymous limit is shared by every job on the runner and ran out 2026-11-21.
+    h = {"User-Agent": "app-stats", "Accept": "application/vnd.github+json"}
+    tok = os.environ.get("GITHUB_TOKEN")
+    if tok:
+        h["Authorization"] = "Bearer " + tok
+    req = urllib.request.Request("https://api.github.com/repos/nicedreamzapp/claude-code-local", headers=h)
+    return json.load(urllib.request.urlopen(req, timeout=60))
 
 
 def fetch():
@@ -34,7 +44,7 @@ if s is None:
     import sys
     md = open("README.md").read()
     try:
-        repo = json.load(urllib.request.urlopen("https://api.github.com/repos/nicedreamzapp/claude-code-local", timeout=60))
+        repo = gh_repo()
         ccl = "%s+ stars, %s forks" % ("{:,}".format(repo["stargazers_count"] // 100 * 100), "{:,}".format(repo["forks_count"]))
         md = re.sub(r"(<!--CCL:START-->).*?(<!--CCL:END-->)", lambda m: m.group(1) + ccl + m.group(2), md, flags=re.S)
         open("README.md", "w").write(md)
@@ -78,12 +88,18 @@ line = ("5 apps on the App Store and Google Play, **%s downloads** so far "
             fmt(t["downloads"]), fmt(t["apple"]), fmt(t["play"]), fmt(t["last7"])))
 
 # claude-code-local's star and fork counts, straight from GitHub (typed by hand until 2026-10-12)
-repo = json.load(urllib.request.urlopen("https://api.github.com/repos/nicedreamzapp/claude-code-local", timeout=60))
-ccl = "%s+ stars, %s forks" % (fmt(repo["stargazers_count"] // 100 * 100), fmt(repo["forks_count"]))
+try:
+    repo = gh_repo()
+    ccl = "%s+ stars, %s forks" % (fmt(repo["stargazers_count"] // 100 * 100), fmt(repo["forks_count"]))
+except Exception as e:
+    print(f"::warning::GitHub API unreachable ({e}); keeping the current star count")
+    ccl = None
 
 p = "README.md"
 md = open(p).read()
 for key, body in (("APP-STATS", stats), ("APPS-LINE", line), ("CCL", ccl)):
+    if body is None:
+        continue
     md, n = re.subn(r"(<!--%s:START-->).*?(<!--%s:END-->)" % (key, key),
                     lambda m: m.group(1) + ("\n" if key == "APP-STATS" else "") + body + ("\n" if key == "APP-STATS" else "") + m.group(2),
                     md, flags=re.S)

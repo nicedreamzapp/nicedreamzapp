@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 .github/scripts/app_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: python3 .github/scripts/badges.py
       - run: |
           git add README.md assets/badges
