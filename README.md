@@ -96,7 +96,7 @@
 
 🔨 **[RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam)** · Posted benchmarks for the iPhone 1.4.0 and Android 1.28 releases.
 
-🔗 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,500+ stars, 651 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [Browser Broker](https://github.com/nicedreamzapp/browser-broker) · [Browser Agent](https://github.com/nicedreamzapp/browser-agent) (▶ [56-second demo](https://youtu.be/SIuMNa2k6Wc)) · [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [Agent-12](https://nicedreamzapp.github.io/agent12/) · [@galashko](https://github.com/galashko) · [lfm-tool-calls](https://github.com/nicedreamzapp/lfm-tool-calls) · [Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)
+🔗 [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): **<!--CCL:START-->3,500+ stars, 650 forks<!--CCL:END-->** · [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) · [Browser Broker](https://github.com/nicedreamzapp/browser-broker) · [Browser Agent](https://github.com/nicedreamzapp/browser-agent) (▶ [56-second demo](https://youtu.be/SIuMNa2k6Wc)) · [NarrateClaude + Ohm](https://github.com/nicedreamzapp/NarrateClaude) · [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [MLX pull request](https://github.com/ml-explore/mlx-lm/pull/1710) · [@zcbenz](https://github.com/zcbenz) · [Agent-12](https://nicedreamzapp.github.io/agent12/) · [@galashko](https://github.com/galashko) · [lfm-tool-calls](https://github.com/nicedreamzapp/lfm-tool-calls) · [Trinidad Head](https://github.com/nicedreamzapp/trinidad-head)
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/cdaec8ae2a47c8841b039a2ea93283c494372b3c/assets/profile/rows/s04-rule.svg" width="100%" alt="">
 
@@ -109,7 +109,7 @@
 > 📱 **Every app, both stores.** All 5 are live on the App Store and Google Play. Private by default, pay once (or nothing), no subscriptions. Android source ships in each repo's android/ folder.
 
 
-📱 <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **3,098 downloads** so far (2,091 App Store, 1,007 Google Play), 59 new on iPhone in the last week.<!--APPS-LINE:END-->
+📱 <!--APPS-LINE:START-->5 apps on the App Store and Google Play, **3,120 downloads** so far (2,098 App Store, 1,022 Google Play), 48 new on iPhone in the last week.<!--APPS-LINE:END-->
 
 🍎 **App Store:** [Song Forge](https://apps.apple.com/us/app/id6788616929) · [RealTime AI Cam](https://apps.apple.com/us/app/id6751230739) · [RealTime Space](https://apps.apple.com/us/app/id6788646103) · [Brainforest](https://apps.apple.com/us/app/id6788301765) · [Hive Strike](https://apps.apple.com/us/app/id6808332314)<br>
 🤖 **Google Play:** [Song Forge](https://play.google.com/store/apps/details?id=com.nicedreamz.ownatune) · [RealTime AI Cam](https://play.google.com/store/apps/details?id=com.mattmacosko.realtimeaicam) · [RealTime Space](https://play.google.com/store/apps/details?id=com.nicedreamz.realtimespace) · [Brainforest](https://play.google.com/store/apps/details?id=com.brainforest.app) · [Hive Strike](https://play.google.com/store/apps/details?id=com.nicedreamz.hivestrike)
@@ -117,18 +117,18 @@
 <a id="app-stats"></a>
 
 <!--APP-STATS:START-->
-> _Updated automatically **Nov 21, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
+> _Updated automatically **Nov 22, 2026** from Apple's sales reports and Google Play's install reports. Downloads are first-time App Store downloads (no updates or re-downloads) plus Google Play installs; Google runs about two weeks behind._
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **2,076** | 1,399 | 677 | 25 | ★ 5.0 (4) |
-| **RealTime Space** | Jul 2026 | **460** | 379 | 81 | 23 | ★ 3.7 (3) |
-| **Song Forge** | Jul 2026 | **442** | 212 | 230 | 6 | – |
-| **Brainforest** | Jul 2026 | **103** | 92 | 11 | 4 | ★ 5.0 (1) |
-| **Hive Strike** | Sep 2026 | **17** | 9 | 8 | 1 | – |
-| **Total** | | **3,098** | **2,091** | **1,007** | **59** | |
+| **RealTime AI Cam** | Aug 2025 | **2,085** | 1,399 | 686 | 18 | ★ 5.0 (4) |
+| **RealTime Space** | Jul 2026 | **472** | 386 | 86 | 24 | ★ 3.7 (3) |
+| **Song Forge** | Jul 2026 | **442** | 212 | 230 | 3 | – |
+| **Brainforest** | Jul 2026 | **104** | 92 | 12 | 3 | ★ 5.0 (1) |
+| **Hive Strike** | Sep 2026 | **17** | 9 | 8 | 0 | – |
+| **Total** | | **3,120** | **2,098** | **1,022** | **48** | |
 
-**New iPhone downloads per week, last 8 weeks:** 149 → 93 → 61 → 41 → 56 → 47 → 81 → 59 (-22 vs the week before).
+**New iPhone downloads per week, last 8 weeks:** 156 → 91 → 54 → 44 → 51 → 62 → 77 → 48 (-29 vs the week before).
 <!--APP-STATS:END-->
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/cdaec8ae2a47c8841b039a2ea93283c494372b3c/assets/profile/rows/s05-rule.svg" width="100%" alt="">
