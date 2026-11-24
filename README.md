@@ -161,6 +161,9 @@
 🛒 **What pays the bills** · Divine Tribe, vaporizer hardware since 2013, plus three more stores.
 
 
+🤝 **Local AI help in Humboldt** · I set up AI for Humboldt County businesses, private and run right here. [humboldtpros.com](https://humboldtpros.com/apps-tech-help/)
+
+
 📬 **[matt@ineedhemp.com](mailto:matt@ineedhemp.com)** · 📚 **[Case studies](https://nicedreamzwholesale.com/software/case-studies/)** · [HQ](https://github.com/nicedreamzapp/how-my-shop-runs) · [Divine Tribe](https://ineedhemp.com) · [three more stores](https://marijuanaunion.com) · [LinkedIn](https://www.linkedin.com/in/matt-macosko-34708235/)
 
 <img src="https://raw.githubusercontent.com/nicedreamzapp/nicedreamzapp/62791ee42902708d2360dfe141f603e0a26c73ce/assets/profile/rows/s07-rule.svg" width="100%" alt="">
