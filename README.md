@@ -121,7 +121,7 @@
 
 | App | Live since | Downloads | App Store | Google Play | New on iPhone, last 7 days | App Store rating |
 |---|---|---:|---:|---:|---:|:---:|
-| **RealTime AI Cam** | Aug 2025 | **2,091** | 1,405 | 686 | 17 | ★ 5.0 (4) |
+| **RealTime AI Cam** | Aug 2025 | **2,091** | 1,405 | 686 | 17 | ★ 4.8 (5) |
 | **RealTime Space** | Jul 2026 | **484** | 398 | 86 | 24 | ★ 3.7 (3) |
 | **Song Forge** | Jul 2026 | **442** | 212 | 230 | 2 | – |
 | **Brainforest** | Jul 2026 | **104** | 92 | 12 | 1 | ★ 5.0 (1) |
